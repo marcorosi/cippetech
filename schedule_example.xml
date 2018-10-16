@@ -1,133 +1,132 @@
-
-<!-- saved from url=(0087)http://www.cinetecadibologna.it/api/GetSchedule?startdate=2018-10-16&enddate=2018-10-16 -->
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252"></head><body><scheduling>
-<schedule>
-    <id>9824</id>
-    <title>BLACKKKLANSMAN</title>
-    <subtitle></subtitle>
-    <type>movie</type>
-    <thumbnail>http://www.cinetecadibologna.it/imageserver/thumb_programmazione/files/arene/GranReno/2018/BlacKkKlansman_Adam-Driver-John-David-Washington_foto-dal-film-1-1024x683.jpg</thumbnail>
-    <abstract><!--[CDATA[<p-->(USA/2018) di Spike Lee (135')<br><strong>Prevendita online</strong><p></p>]]&gt;</abstract>
-    <locationname>Laboratori delle Arti UniBo</locationname>
-    <locationaddress>Piazzetta Pier Paolo Pasolini 5/b (ingresso via Azzo Gardino 65)</locationaddress>
-    <locationgps>44.5020628,11.3348699</locationgps>
-    <flagitalianprimetime>0</flagitalianprimetime>
-    <flagfic>0</flagfic>
-    <flagcinefilia>0</flagcinefilia>
-    <flagchildren>0</flagchildren>
-    <flagteens>0</flagteens>
-    <flagoriginallanguage>1</flagoriginallanguage>
-    <flagorchestra>0</flagorchestra>
-    <timetable><datetime>2018-09-27 22:30:00</datetime><datetime>2018-09-27 17:00:00</datetime><datetime>2018-09-28 20:00:00</datetime><datetime>2018-09-29 17:00:00</datetime><datetime>2018-09-29 22:30:00</datetime><datetime>2018-09-30 20:00:00</datetime><datetime>2018-10-01 17:00:00</datetime><datetime>2018-10-01 22:30:00</datetime><datetime>2018-10-02 20:00:00</datetime><datetime>2018-10-03 17:00:00</datetime><datetime>2018-10-03 22:30:00</datetime><datetime>2018-10-04 17:00:00</datetime><datetime>2018-10-04 22:30:00</datetime><datetime>2018-10-05 20:00:00</datetime><datetime>2018-10-06 17:00:00</datetime><datetime>2018-10-06 22:30:00</datetime><datetime>2018-10-07 20:00:00</datetime><datetime>2018-10-08 17:00:00</datetime><datetime>2018-10-08 22:30:00</datetime><datetime>2018-10-10 22:30:00</datetime><datetime>2018-10-11 17:30:00</datetime><datetime>2018-10-11 22:30:00</datetime><datetime>2018-10-12 20:00:00</datetime><datetime>2018-10-12 22:30:00</datetime><datetime>2018-10-13 17:30:00</datetime><datetime>2018-10-13 22:30:00</datetime><datetime>2018-10-14 15:00:00</datetime><datetime>2018-10-14 20:00:00</datetime><datetime>2018-10-14 22:30:00</datetime><datetime>2018-10-15 20:00:00</datetime><datetime>2018-10-15 22:30:00</datetime><datetime>2018-10-16 20:00:00</datetime><datetime>2018-10-16 22:30:00</datetime><datetime>2018-10-17 17:30:00</datetime><datetime>2018-10-17 22:30:00</datetime><datetime>2018-09-27 22:30:00</datetime></timetable>
-    <events></events>
-    <url>http://www.cinetecadibologna.it/vedere/programmazione/9824</url>
-</schedule>
-<schedule>
-    <id>9860</id>
-    <title>LA STRADA DEI SAMOUNI</title>
-    <subtitle></subtitle>
-    <type>movie</type>
-    <thumbnail>http://www.cinetecadibologna.it/imageserver/thumb_programmazione/files/lumiere/ottobre2018/strada_dei_samouni.png</thumbnail>
-    <abstract><!--[CDATA[<p-->(Italia-Francia/2018) di Stefano Savona (128')<br><strong>Prevendita on-line</strong><p></p>
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<Scheduling>
+<Schedule>
+    <ID>9824</ID>
+    <Title>BLACKKKLANSMAN</Title>
+    <Subtitle></Subtitle>
+    <Type>movie</Type>
+    <Thumbnail>http://www.cinetecadibologna.it/imageserver/thumb_programmazione/files/arene/GranReno/2018/BlacKkKlansman_Adam-Driver-John-David-Washington_foto-dal-film-1-1024x683.jpg</Thumbnail>
+    <Abstract><![CDATA[<p>(USA/2018) di Spike Lee (135')<br /><strong>Prevendita online</strong></p>]]></Abstract>
+    <LocationName>Laboratori delle Arti UniBo</LocationName>
+    <LocationAddress>Piazzetta Pier Paolo Pasolini 5/b (ingresso via Azzo Gardino 65)</LocationAddress>
+    <LocationGPS>44.5020628,11.3348699</LocationGPS>
+    <FlagItalianPrimetime>0</FlagItalianPrimetime>
+    <FlagFIC>0</FlagFIC>
+    <FlagCinefilia>0</FlagCinefilia>
+    <FlagChildren>0</FlagChildren>
+    <FlagTeens>0</FlagTeens>
+    <FlagOriginalLanguage>1</FlagOriginalLanguage>
+    <FlagOrchestra>0</FlagOrchestra>
+    <Timetable><DateTime>2018-09-27 22:30:00</DateTime><DateTime>2018-09-27 17:00:00</DateTime><DateTime>2018-09-28 20:00:00</DateTime><DateTime>2018-09-29 17:00:00</DateTime><DateTime>2018-09-29 22:30:00</DateTime><DateTime>2018-09-30 20:00:00</DateTime><DateTime>2018-10-01 17:00:00</DateTime><DateTime>2018-10-01 22:30:00</DateTime><DateTime>2018-10-02 20:00:00</DateTime><DateTime>2018-10-03 17:00:00</DateTime><DateTime>2018-10-03 22:30:00</DateTime><DateTime>2018-10-04 17:00:00</DateTime><DateTime>2018-10-04 22:30:00</DateTime><DateTime>2018-10-05 20:00:00</DateTime><DateTime>2018-10-06 17:00:00</DateTime><DateTime>2018-10-06 22:30:00</DateTime><DateTime>2018-10-07 20:00:00</DateTime><DateTime>2018-10-08 17:00:00</DateTime><DateTime>2018-10-08 22:30:00</DateTime><DateTime>2018-10-10 22:30:00</DateTime><DateTime>2018-10-11 17:30:00</DateTime><DateTime>2018-10-11 22:30:00</DateTime><DateTime>2018-10-12 20:00:00</DateTime><DateTime>2018-10-12 22:30:00</DateTime><DateTime>2018-10-13 17:30:00</DateTime><DateTime>2018-10-13 22:30:00</DateTime><DateTime>2018-10-14 15:00:00</DateTime><DateTime>2018-10-14 20:00:00</DateTime><DateTime>2018-10-14 22:30:00</DateTime><DateTime>2018-10-15 20:00:00</DateTime><DateTime>2018-10-15 22:30:00</DateTime><DateTime>2018-10-16 20:00:00</DateTime><DateTime>2018-10-16 22:30:00</DateTime><DateTime>2018-10-17 17:30:00</DateTime><DateTime>2018-10-17 22:30:00</DateTime><DateTime>2018-09-27 22:30:00</DateTime></Timetable>
+    <Events></Events>
+    <URL>http://www.cinetecadibologna.it/vedere/programmazione/9824</URL>
+</Schedule>
+<Schedule>
+    <ID>9860</ID>
+    <Title>LA STRADA DEI SAMOUNI</Title>
+    <Subtitle></Subtitle>
+    <Type>movie</Type>
+    <Thumbnail>http://www.cinetecadibologna.it/imageserver/thumb_programmazione/files/lumiere/ottobre2018/strada_dei_samouni.png</Thumbnail>
+    <Abstract><![CDATA[<p>(Italia-Francia/2018) di Stefano Savona (128')<br /><strong>Prevendita on-line</strong></p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>]]&gt;</abstract>
-    <locationname>Sala Cervi</locationname>
-    <locationaddress>via Riva di Reno, 72</locationaddress>
-    <locationgps>44.498828,11.336857</locationgps>
-    <flagitalianprimetime>0</flagitalianprimetime>
-    <flagfic>0</flagfic>
-    <flagcinefilia>0</flagcinefilia>
-    <flagchildren>0</flagchildren>
-    <flagteens>0</flagteens>
-    <flagoriginallanguage>1</flagoriginallanguage>
-    <flagorchestra>0</flagorchestra>
-    <timetable><datetime>2018-10-11 22:30:00</datetime><datetime>2018-10-11 15:00:00</datetime><datetime>2018-10-12 20:10:00</datetime><datetime>2018-10-12 22:30:00</datetime><datetime>2018-10-13 15:00:00</datetime><datetime>2018-10-13 17:30:00</datetime><datetime>2018-10-13 22:30:00</datetime><datetime>2018-10-14 15:00:00</datetime><datetime>2018-10-14 20:10:00</datetime><datetime>2018-10-14 22:30:00</datetime><datetime>2018-10-15 17:30:00</datetime><datetime>2018-10-15 22:30:00</datetime><datetime>2018-10-16 20:10:00</datetime><datetime>2018-10-16 22:30:00</datetime><datetime>2018-10-17 17:30:00</datetime><datetime>2018-10-17 22:30:00</datetime><datetime>2018-10-11 22:30:00</datetime></timetable>
-    <events></events>
-    <url>http://www.cinetecadibologna.it/vedere/programmazione/9860</url>
-</schedule>
-<schedule>
-    <id>9895</id>
-    <title>A STAR IS BORN</title>
-    <subtitle></subtitle>
-    <type>movie</type>
-    <thumbnail>http://www.cinetecadibologna.it/imageserver/thumb_programmazione/files/arene/GranReno/2018/A-Star-is-Born.jpg</thumbnail>
-    <abstract><!--[CDATA[<p-->(USA/2018) di Bradley Cooper (135')<strong><br>Prevendita on-line<br></strong><p></p>]]&gt;</abstract>
-    <locationname>Cinema Lumière - Sala Scorsese</locationname>
-    <locationaddress>Piazzetta Pier Paolo Pasolini (ingresso via Azzo Gardino 65)</locationaddress>
-    <locationgps>44.502025,11.334717</locationgps>
-    <flagitalianprimetime>0</flagitalianprimetime>
-    <flagfic>0</flagfic>
-    <flagcinefilia>0</flagcinefilia>
-    <flagchildren>0</flagchildren>
-    <flagteens>0</flagteens>
-    <flagoriginallanguage>1</flagoriginallanguage>
-    <flagorchestra>0</flagorchestra>
-    <timetable><datetime>2018-10-11 22:30:00</datetime><datetime>2018-10-11 15:15:00</datetime><datetime>2018-10-11 17:45:00</datetime><datetime>2018-10-11 20:10:00</datetime><datetime>2018-10-12 18:00:00</datetime><datetime>2018-10-12 20:10:00</datetime><datetime>2018-10-12 22:30:00</datetime><datetime>2018-10-13 17:45:00</datetime><datetime>2018-10-13 20:10:00</datetime><datetime>2018-10-13 22:30:00</datetime><datetime>2018-10-14 15:15:00</datetime><datetime>2018-10-14 17:45:00</datetime><datetime>2018-10-14 20:10:00</datetime><datetime>2018-10-14 22:30:00</datetime><datetime>2018-10-15 15:15:00</datetime><datetime>2018-10-15 17:45:00</datetime><datetime>2018-10-15 20:10:00</datetime><datetime>2018-10-15 22:30:00</datetime><datetime>2018-10-16 15:15:00</datetime><datetime>2018-10-16 17:45:00</datetime><datetime>2018-10-16 20:10:00</datetime><datetime>2018-10-16 22:30:00</datetime><datetime>2018-10-17 15:15:00</datetime><datetime>2018-10-17 17:45:00</datetime><datetime>2018-10-17 20:10:00</datetime><datetime>2018-10-17 22:30:00</datetime><datetime>2018-10-11 22:30:00</datetime></timetable>
-    <events></events>
-    <url>http://www.cinetecadibologna.it/vedere/programmazione/9895</url>
-</schedule>
-<schedule>
-    <id>9896</id>
-    <title>L'APPARIZIONE</title>
-    <subtitle></subtitle>
-    <type>movie</type>
-    <thumbnail>http://www.cinetecadibologna.it/imageserver/thumb_programmazione/files/arene/GranReno/2018/03-LA.jpg</thumbnail>
-    <abstract><!--[CDATA[<p-->(<em>L'Apparition</em>, Francia/2018) di Xavier Giannoli (144')<strong><br>Prevendita on-line<br></strong><p></p>]]&gt;</abstract>
-    <locationname>Sala Cervi</locationname>
-    <locationaddress>via Riva di Reno, 72</locationaddress>
-    <locationgps>44.498828,11.336857</locationgps>
-    <flagitalianprimetime>0</flagitalianprimetime>
-    <flagfic>0</flagfic>
-    <flagcinefilia>0</flagcinefilia>
-    <flagchildren>0</flagchildren>
-    <flagteens>0</flagteens>
-    <flagoriginallanguage>1</flagoriginallanguage>
-    <flagorchestra>0</flagorchestra>
-    <timetable><datetime>2018-10-11 20:00:00</datetime><datetime>2018-10-12 17:30:00</datetime><datetime>2018-10-13 20:00:00</datetime><datetime>2018-10-14 17:30:00</datetime><datetime>2018-10-15 20:00:00</datetime><datetime>2018-10-16 17:30:00</datetime><datetime>2018-10-17 20:00:00</datetime><datetime>2018-10-11 20:00:00</datetime></timetable>
-    <events></events>
-    <url>http://www.cinetecadibologna.it/vedere/programmazione/9896</url>
-</schedule>
-<schedule>
-    <id>9897</id>
-    <title>22 LUGLIO</title>
-    <subtitle></subtitle>
-    <type>movie</type>
-    <thumbnail>http://www.cinetecadibologna.it/imageserver/thumb_programmazione/files/arene/GranReno/2018/22.jpg</thumbnail>
-    <abstract><!--[CDATA[<p-->(<em>22 July</em>, Norvegia-Islanda/2018) di Paul Greengrass (143')    <strong><br>Prevendita on-line<br></strong><p></p>]]&gt;</abstract>
-    <locationname>Laboratori delle Arti UniBo</locationname>
-    <locationaddress>Piazzetta Pier Paolo Pasolini 5/b (ingresso via Azzo Gardino 65)</locationaddress>
-    <locationgps>44.5020628,11.3348699</locationgps>
-    <flagitalianprimetime>0</flagitalianprimetime>
-    <flagfic>0</flagfic>
-    <flagcinefilia>0</flagcinefilia>
-    <flagchildren>0</flagchildren>
-    <flagteens>0</flagteens>
-    <flagoriginallanguage>0</flagoriginallanguage>
-    <flagorchestra>0</flagorchestra>
-    <timetable><datetime>2018-10-11 20:00:00</datetime><datetime>2018-10-12 17:30:00</datetime><datetime>2018-10-13 15:00:00</datetime><datetime>2018-10-13 20:00:00</datetime><datetime>2018-10-14 17:30:00</datetime><datetime>2018-10-15 17:30:00</datetime><datetime>2018-10-16 17:30:00</datetime><datetime>2018-10-17 20:00:00</datetime><datetime>2018-10-11 20:00:00</datetime></timetable>
-    <events></events>
-    <url>http://www.cinetecadibologna.it/vedere/programmazione/9897</url>
-</schedule>
-<schedule>
-    <id>9864</id>
-    <title>MORTE A VENEZIA</title>
-    <subtitle></subtitle>
-    <type>movie</type>
-    <thumbnail>http://www.cinetecadibologna.it/imageserver/thumb_programmazione/files/lumiere/ottobre2018/MorteaVenezia.jpg</thumbnail>
-    <abstract><!--[CDATA[<p-->(Italia-Francia-USA/1971) di Luchino Visconti (130')<p></p>
-<p>Precede a una selezione di home movies su Venezia girati da Giancarlo Stucky a inizio Novecento.</p>]]&gt;</abstract>
-    <locationname>Cinema Lumière - Sala Officinema/Mastroianni</locationname>
-    <locationaddress>Piazzetta Pier Paolo Pasolini (ingresso via Azzo Gardino 65)</locationaddress>
-    <locationgps>44.502025,11.334717</locationgps>
-    <flagitalianprimetime>0</flagitalianprimetime>
-    <flagfic>0</flagfic>
-    <flagcinefilia>0</flagcinefilia>
-    <flagchildren>0</flagchildren>
-    <flagteens>0</flagteens>
-    <flagoriginallanguage>0</flagoriginallanguage>
-    <flagorchestra>0</flagorchestra>
-    <timetable><datetime>2018-10-15 22:30:00</datetime><datetime>2018-10-15 17:30:00</datetime><datetime>2018-10-15 20:00:00</datetime><datetime>2018-10-16 17:30:00</datetime><datetime>2018-10-16 20:00:00</datetime><datetime>2018-10-16 22:30:00</datetime><datetime>2018-10-22 17:30:00</datetime><datetime>2018-10-22 20:00:00</datetime><datetime>2018-10-22 22:30:00</datetime><datetime>2018-10-23 17:30:00</datetime><datetime>2018-10-23 20:00:00</datetime><datetime>2018-10-23 22:30:00</datetime><datetime>2018-10-24 17:30:00</datetime><datetime>2018-10-29 18:00:00</datetime><datetime>2018-10-15 22:30:00</datetime></timetable>
-    <events><parentevent>1104</parentevent></events>
-    <url>http://www.cinetecadibologna.it/vedere/programmazione/9864</url>
-</schedule>
-</scheduling></body></html>
+<p>&nbsp;</p>]]></Abstract>
+    <LocationName>Sala Cervi</LocationName>
+    <LocationAddress>via Riva di Reno, 72</LocationAddress>
+    <LocationGPS>44.498828,11.336857</LocationGPS>
+    <FlagItalianPrimetime>0</FlagItalianPrimetime>
+    <FlagFIC>0</FlagFIC>
+    <FlagCinefilia>0</FlagCinefilia>
+    <FlagChildren>0</FlagChildren>
+    <FlagTeens>0</FlagTeens>
+    <FlagOriginalLanguage>1</FlagOriginalLanguage>
+    <FlagOrchestra>0</FlagOrchestra>
+    <Timetable><DateTime>2018-10-11 22:30:00</DateTime><DateTime>2018-10-11 15:00:00</DateTime><DateTime>2018-10-12 20:10:00</DateTime><DateTime>2018-10-12 22:30:00</DateTime><DateTime>2018-10-13 15:00:00</DateTime><DateTime>2018-10-13 17:30:00</DateTime><DateTime>2018-10-13 22:30:00</DateTime><DateTime>2018-10-14 15:00:00</DateTime><DateTime>2018-10-14 20:10:00</DateTime><DateTime>2018-10-14 22:30:00</DateTime><DateTime>2018-10-15 17:30:00</DateTime><DateTime>2018-10-15 22:30:00</DateTime><DateTime>2018-10-16 20:10:00</DateTime><DateTime>2018-10-16 22:30:00</DateTime><DateTime>2018-10-17 17:30:00</DateTime><DateTime>2018-10-17 22:30:00</DateTime><DateTime>2018-10-11 22:30:00</DateTime></Timetable>
+    <Events></Events>
+    <URL>http://www.cinetecadibologna.it/vedere/programmazione/9860</URL>
+</Schedule>
+<Schedule>
+    <ID>9895</ID>
+    <Title>A STAR IS BORN</Title>
+    <Subtitle></Subtitle>
+    <Type>movie</Type>
+    <Thumbnail>http://www.cinetecadibologna.it/imageserver/thumb_programmazione/files/arene/GranReno/2018/A-Star-is-Born.jpg</Thumbnail>
+    <Abstract><![CDATA[<p>(USA/2018) di Bradley Cooper (135')<strong><br />Prevendita on-line<br /></strong></p>]]></Abstract>
+    <LocationName>Cinema Lumière - Sala Scorsese</LocationName>
+    <LocationAddress>Piazzetta Pier Paolo Pasolini (ingresso via Azzo Gardino 65)</LocationAddress>
+    <LocationGPS>44.502025,11.334717</LocationGPS>
+    <FlagItalianPrimetime>0</FlagItalianPrimetime>
+    <FlagFIC>0</FlagFIC>
+    <FlagCinefilia>0</FlagCinefilia>
+    <FlagChildren>0</FlagChildren>
+    <FlagTeens>0</FlagTeens>
+    <FlagOriginalLanguage>1</FlagOriginalLanguage>
+    <FlagOrchestra>0</FlagOrchestra>
+    <Timetable><DateTime>2018-10-11 22:30:00</DateTime><DateTime>2018-10-11 15:15:00</DateTime><DateTime>2018-10-11 17:45:00</DateTime><DateTime>2018-10-11 20:10:00</DateTime><DateTime>2018-10-12 18:00:00</DateTime><DateTime>2018-10-12 20:10:00</DateTime><DateTime>2018-10-12 22:30:00</DateTime><DateTime>2018-10-13 17:45:00</DateTime><DateTime>2018-10-13 20:10:00</DateTime><DateTime>2018-10-13 22:30:00</DateTime><DateTime>2018-10-14 15:15:00</DateTime><DateTime>2018-10-14 17:45:00</DateTime><DateTime>2018-10-14 20:10:00</DateTime><DateTime>2018-10-14 22:30:00</DateTime><DateTime>2018-10-15 15:15:00</DateTime><DateTime>2018-10-15 17:45:00</DateTime><DateTime>2018-10-15 20:10:00</DateTime><DateTime>2018-10-15 22:30:00</DateTime><DateTime>2018-10-16 15:15:00</DateTime><DateTime>2018-10-16 17:45:00</DateTime><DateTime>2018-10-16 20:10:00</DateTime><DateTime>2018-10-16 22:30:00</DateTime><DateTime>2018-10-17 15:15:00</DateTime><DateTime>2018-10-17 17:45:00</DateTime><DateTime>2018-10-17 20:10:00</DateTime><DateTime>2018-10-17 22:30:00</DateTime><DateTime>2018-10-11 22:30:00</DateTime></Timetable>
+    <Events></Events>
+    <URL>http://www.cinetecadibologna.it/vedere/programmazione/9895</URL>
+</Schedule>
+<Schedule>
+    <ID>9896</ID>
+    <Title>L'APPARIZIONE</Title>
+    <Subtitle></Subtitle>
+    <Type>movie</Type>
+    <Thumbnail>http://www.cinetecadibologna.it/imageserver/thumb_programmazione/files/arene/GranReno/2018/03-LA.jpg</Thumbnail>
+    <Abstract><![CDATA[<p>(<em>L'Apparition</em>, Francia/2018) di Xavier Giannoli (144')<strong><br />Prevendita on-line<br /></strong></p>]]></Abstract>
+    <LocationName>Sala Cervi</LocationName>
+    <LocationAddress>via Riva di Reno, 72</LocationAddress>
+    <LocationGPS>44.498828,11.336857</LocationGPS>
+    <FlagItalianPrimetime>0</FlagItalianPrimetime>
+    <FlagFIC>0</FlagFIC>
+    <FlagCinefilia>0</FlagCinefilia>
+    <FlagChildren>0</FlagChildren>
+    <FlagTeens>0</FlagTeens>
+    <FlagOriginalLanguage>1</FlagOriginalLanguage>
+    <FlagOrchestra>0</FlagOrchestra>
+    <Timetable><DateTime>2018-10-11 20:00:00</DateTime><DateTime>2018-10-12 17:30:00</DateTime><DateTime>2018-10-13 20:00:00</DateTime><DateTime>2018-10-14 17:30:00</DateTime><DateTime>2018-10-15 20:00:00</DateTime><DateTime>2018-10-16 17:30:00</DateTime><DateTime>2018-10-17 20:00:00</DateTime><DateTime>2018-10-11 20:00:00</DateTime></Timetable>
+    <Events></Events>
+    <URL>http://www.cinetecadibologna.it/vedere/programmazione/9896</URL>
+</Schedule>
+<Schedule>
+    <ID>9897</ID>
+    <Title>22 LUGLIO</Title>
+    <Subtitle></Subtitle>
+    <Type>movie</Type>
+    <Thumbnail>http://www.cinetecadibologna.it/imageserver/thumb_programmazione/files/arene/GranReno/2018/22.jpg</Thumbnail>
+    <Abstract><![CDATA[<p>(<em>22 July</em>, Norvegia-Islanda/2018) di Paul Greengrass (143')    <strong><br />Prevendita on-line<br /></strong></p>]]></Abstract>
+    <LocationName>Laboratori delle Arti UniBo</LocationName>
+    <LocationAddress>Piazzetta Pier Paolo Pasolini 5/b (ingresso via Azzo Gardino 65)</LocationAddress>
+    <LocationGPS>44.5020628,11.3348699</LocationGPS>
+    <FlagItalianPrimetime>0</FlagItalianPrimetime>
+    <FlagFIC>0</FlagFIC>
+    <FlagCinefilia>0</FlagCinefilia>
+    <FlagChildren>0</FlagChildren>
+    <FlagTeens>0</FlagTeens>
+    <FlagOriginalLanguage>0</FlagOriginalLanguage>
+    <FlagOrchestra>0</FlagOrchestra>
+    <Timetable><DateTime>2018-10-11 20:00:00</DateTime><DateTime>2018-10-12 17:30:00</DateTime><DateTime>2018-10-13 15:00:00</DateTime><DateTime>2018-10-13 20:00:00</DateTime><DateTime>2018-10-14 17:30:00</DateTime><DateTime>2018-10-15 17:30:00</DateTime><DateTime>2018-10-16 17:30:00</DateTime><DateTime>2018-10-17 20:00:00</DateTime><DateTime>2018-10-11 20:00:00</DateTime></Timetable>
+    <Events></Events>
+    <URL>http://www.cinetecadibologna.it/vedere/programmazione/9897</URL>
+</Schedule>
+<Schedule>
+    <ID>9864</ID>
+    <Title>MORTE A VENEZIA</Title>
+    <Subtitle></Subtitle>
+    <Type>movie</Type>
+    <Thumbnail>http://www.cinetecadibologna.it/imageserver/thumb_programmazione/files/lumiere/ottobre2018/MorteaVenezia.jpg</Thumbnail>
+    <Abstract><![CDATA[<p>(Italia-Francia-USA/1971) di Luchino Visconti (130')</p>
+<p>Precede a una selezione di home movies su Venezia girati da Giancarlo Stucky a inizio Novecento.</p>]]></Abstract>
+    <LocationName>Cinema Lumière - Sala Officinema/Mastroianni</LocationName>
+    <LocationAddress>Piazzetta Pier Paolo Pasolini (ingresso via Azzo Gardino 65)</LocationAddress>
+    <LocationGPS>44.502025,11.334717</LocationGPS>
+    <FlagItalianPrimetime>0</FlagItalianPrimetime>
+    <FlagFIC>0</FlagFIC>
+    <FlagCinefilia>0</FlagCinefilia>
+    <FlagChildren>0</FlagChildren>
+    <FlagTeens>0</FlagTeens>
+    <FlagOriginalLanguage>0</FlagOriginalLanguage>
+    <FlagOrchestra>0</FlagOrchestra>
+    <Timetable><DateTime>2018-10-15 22:30:00</DateTime><DateTime>2018-10-15 17:30:00</DateTime><DateTime>2018-10-15 20:00:00</DateTime><DateTime>2018-10-16 17:30:00</DateTime><DateTime>2018-10-16 20:00:00</DateTime><DateTime>2018-10-16 22:30:00</DateTime><DateTime>2018-10-22 17:30:00</DateTime><DateTime>2018-10-22 20:00:00</DateTime><DateTime>2018-10-22 22:30:00</DateTime><DateTime>2018-10-23 17:30:00</DateTime><DateTime>2018-10-23 20:00:00</DateTime><DateTime>2018-10-23 22:30:00</DateTime><DateTime>2018-10-24 17:30:00</DateTime><DateTime>2018-10-29 18:00:00</DateTime><DateTime>2018-10-15 22:30:00</DateTime></Timetable>
+    <Events><ParentEvent>1104</ParentEvent></Events>
+    <URL>http://www.cinetecadibologna.it/vedere/programmazione/9864</URL>
+</Schedule>
+</Scheduling>
