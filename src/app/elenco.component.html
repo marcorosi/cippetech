@@ -1,0 +1,8 @@
+<div *ngFor="let film of films">
+	<h4>{{film.Title}}</h4>
+	<img src="{{film.thumb}}" />
+  <p [innerHtml]="film.Abstract"></p>
+  <p>{{film.LocationName}}</p>
+  <p>{{film.LocationAddress}}</p>
+  <div *ngFor="let d of film.dataeora">{{d | date:'H:mm'}}</div>
+</div>
