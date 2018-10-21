@@ -17,7 +17,7 @@
     <FlagTeens>0</FlagTeens>
     <FlagOriginalLanguage>1</FlagOriginalLanguage>
     <FlagOrchestra>0</FlagOrchestra>
-    <Timetable><DateTime>2018-09-27 22:30:00</DateTime><DateTime>2018-09-27 17:00:00</DateTime><DateTime>2018-09-28 20:00:00</DateTime><DateTime>2018-09-29 17:00:00</DateTime><DateTime>2018-09-29 22:30:00</DateTime><DateTime>2018-09-30 20:00:00</DateTime><DateTime>2018-10-01 17:00:00</DateTime><DateTime>2018-10-01 22:30:00</DateTime><DateTime>2018-10-02 20:00:00</DateTime><DateTime>2018-10-03 17:00:00</DateTime><DateTime>2018-10-03 22:30:00</DateTime><DateTime>2018-10-04 17:00:00</DateTime><DateTime>2018-10-04 22:30:00</DateTime><DateTime>2018-10-05 20:00:00</DateTime><DateTime>2018-10-06 17:00:00</DateTime><DateTime>2018-10-06 22:30:00</DateTime><DateTime>2018-10-07 20:00:00</DateTime><DateTime>2018-10-08 17:00:00</DateTime><DateTime>2018-10-08 22:30:00</DateTime><DateTime>2018-10-10 22:30:00</DateTime><DateTime>2018-10-11 17:30:00</DateTime><DateTime>2018-10-11 22:30:00</DateTime><DateTime>2018-10-12 20:00:00</DateTime><DateTime>2018-10-12 22:30:00</DateTime><DateTime>2018-10-13 17:30:00</DateTime><DateTime>2018-10-13 22:30:00</DateTime><DateTime>2018-10-14 15:00:00</DateTime><DateTime>2018-10-14 20:00:00</DateTime><DateTime>2018-10-14 22:30:00</DateTime><DateTime>2018-10-15 20:00:00</DateTime><DateTime>2018-10-15 22:30:00</DateTime><DateTime>2018-10-16 20:00:00</DateTime><DateTime>2018-10-16 22:30:00</DateTime><DateTime>2018-10-17 17:30:00</DateTime><DateTime>2018-10-17 22:30:00</DateTime><DateTime>2018-09-27 22:30:00</DateTime></Timetable>
+    <Timetable><DateTime>2019-09-27 22:30:00</DateTime><DateTime>2019-09-27 17:00:00</DateTime><DateTime>2019-09-28 20:00:00</DateTime><DateTime>2019-09-29 17:00:00</DateTime><DateTime>2019-09-29 22:30:00</DateTime><DateTime>2019-09-30 20:00:00</DateTime><DateTime>2019-10-01 17:00:00</DateTime><DateTime>2019-10-01 22:30:00</DateTime><DateTime>2019-10-02 20:00:00</DateTime><DateTime>2019-10-03 17:00:00</DateTime><DateTime>2019-10-03 22:30:00</DateTime><DateTime>2019-10-04 17:00:00</DateTime><DateTime>2019-10-04 22:30:00</DateTime><DateTime>2019-10-05 20:00:00</DateTime><DateTime>2019-10-06 17:00:00</DateTime><DateTime>2019-10-06 22:30:00</DateTime><DateTime>2019-10-07 20:00:00</DateTime><DateTime>2019-10-08 17:00:00</DateTime><DateTime>2019-10-08 22:30:00</DateTime><DateTime>2019-10-10 22:30:00</DateTime><DateTime>2019-10-11 17:30:00</DateTime><DateTime>2019-10-11 22:30:00</DateTime><DateTime>2019-10-12 20:00:00</DateTime><DateTime>2019-10-12 22:30:00</DateTime><DateTime>2019-10-13 17:30:00</DateTime><DateTime>2019-10-13 22:30:00</DateTime><DateTime>2019-10-14 15:00:00</DateTime><DateTime>2019-10-14 20:00:00</DateTime><DateTime>2019-10-14 22:30:00</DateTime><DateTime>2019-10-15 20:00:00</DateTime><DateTime>2019-10-15 22:30:00</DateTime><DateTime>2019-10-16 20:00:00</DateTime><DateTime>2019-10-16 22:30:00</DateTime><DateTime>2019-10-17 17:30:00</DateTime><DateTime>2019-10-17 22:30:00</DateTime><DateTime>2019-09-27 22:30:00</DateTime></Timetable>
     <Events></Events>
     <URL>http://www.cinetecadibologna.it/vedere/programmazione/9824</URL>
 </Schedule>
@@ -40,7 +40,7 @@
     <FlagTeens>0</FlagTeens>
     <FlagOriginalLanguage>1</FlagOriginalLanguage>
     <FlagOrchestra>0</FlagOrchestra>
-    <Timetable><DateTime>2018-10-11 22:30:00</DateTime><DateTime>2018-10-11 15:00:00</DateTime><DateTime>2018-10-12 20:10:00</DateTime><DateTime>2018-10-12 22:30:00</DateTime><DateTime>2018-10-13 15:00:00</DateTime><DateTime>2018-10-13 17:30:00</DateTime><DateTime>2018-10-13 22:30:00</DateTime><DateTime>2018-10-14 15:00:00</DateTime><DateTime>2018-10-14 20:10:00</DateTime><DateTime>2018-10-14 22:30:00</DateTime><DateTime>2018-10-15 17:30:00</DateTime><DateTime>2018-10-15 22:30:00</DateTime><DateTime>2018-10-16 20:10:00</DateTime><DateTime>2018-10-16 22:30:00</DateTime><DateTime>2018-10-17 17:30:00</DateTime><DateTime>2018-10-17 22:30:00</DateTime><DateTime>2018-10-11 22:30:00</DateTime></Timetable>
+    <Timetable><DateTime>2019-10-11 22:30:00</DateTime><DateTime>2019-10-11 15:00:00</DateTime><DateTime>2019-10-12 20:10:00</DateTime><DateTime>2019-10-12 22:30:00</DateTime><DateTime>2019-10-13 15:00:00</DateTime><DateTime>2019-10-13 17:30:00</DateTime><DateTime>2019-10-13 22:30:00</DateTime><DateTime>2019-10-14 15:00:00</DateTime><DateTime>2019-10-14 20:10:00</DateTime><DateTime>2019-10-14 22:30:00</DateTime><DateTime>2019-10-15 17:30:00</DateTime><DateTime>2019-10-15 22:30:00</DateTime><DateTime>2019-10-16 20:10:00</DateTime><DateTime>2019-10-16 22:30:00</DateTime><DateTime>2019-10-17 17:30:00</DateTime><DateTime>2019-10-17 22:30:00</DateTime><DateTime>2019-10-11 22:30:00</DateTime></Timetable>
     <Events></Events>
     <URL>http://www.cinetecadibologna.it/vedere/programmazione/9860</URL>
 </Schedule>
@@ -51,7 +51,7 @@
     <Type>movie</Type>
     <Thumbnail>http://www.cinetecadibologna.it/imageserver/thumb_programmazione/files/arene/GranReno/2018/A-Star-is-Born.jpg</Thumbnail>
     <Abstract><![CDATA[<p>(USA/2018) di Bradley Cooper (135')<strong><br />Prevendita on-line<br /></strong></p>]]></Abstract>
-    <LocationName>Cinema Lumière - Sala Scorsese</LocationName>
+    <LocationName>Cinema LumiÃ¨re - Sala Scorsese</LocationName>
     <LocationAddress>Piazzetta Pier Paolo Pasolini (ingresso via Azzo Gardino 65)</LocationAddress>
     <LocationGPS>44.502025,11.334717</LocationGPS>
     <FlagItalianPrimetime>0</FlagItalianPrimetime>
@@ -61,7 +61,7 @@
     <FlagTeens>0</FlagTeens>
     <FlagOriginalLanguage>1</FlagOriginalLanguage>
     <FlagOrchestra>0</FlagOrchestra>
-    <Timetable><DateTime>2018-10-11 22:30:00</DateTime><DateTime>2018-10-11 15:15:00</DateTime><DateTime>2018-10-11 17:45:00</DateTime><DateTime>2018-10-11 20:10:00</DateTime><DateTime>2018-10-12 18:00:00</DateTime><DateTime>2018-10-12 20:10:00</DateTime><DateTime>2018-10-12 22:30:00</DateTime><DateTime>2018-10-13 17:45:00</DateTime><DateTime>2018-10-13 20:10:00</DateTime><DateTime>2018-10-13 22:30:00</DateTime><DateTime>2018-10-14 15:15:00</DateTime><DateTime>2018-10-14 17:45:00</DateTime><DateTime>2018-10-14 20:10:00</DateTime><DateTime>2018-10-14 22:30:00</DateTime><DateTime>2018-10-15 15:15:00</DateTime><DateTime>2018-10-15 17:45:00</DateTime><DateTime>2018-10-15 20:10:00</DateTime><DateTime>2018-10-15 22:30:00</DateTime><DateTime>2018-10-16 15:15:00</DateTime><DateTime>2018-10-16 17:45:00</DateTime><DateTime>2018-10-16 20:10:00</DateTime><DateTime>2018-10-16 22:30:00</DateTime><DateTime>2018-10-17 15:15:00</DateTime><DateTime>2018-10-17 17:45:00</DateTime><DateTime>2018-10-17 20:10:00</DateTime><DateTime>2018-10-17 22:30:00</DateTime><DateTime>2018-10-11 22:30:00</DateTime></Timetable>
+    <Timetable><DateTime>2019-10-11 22:30:00</DateTime><DateTime>2019-10-11 15:15:00</DateTime><DateTime>2019-10-11 17:45:00</DateTime><DateTime>2019-10-11 20:10:00</DateTime><DateTime>2019-10-12 18:00:00</DateTime><DateTime>2019-10-12 20:10:00</DateTime><DateTime>2019-10-12 22:30:00</DateTime><DateTime>2019-10-13 17:45:00</DateTime><DateTime>2019-10-13 20:10:00</DateTime><DateTime>2019-10-13 22:30:00</DateTime><DateTime>2019-10-14 15:15:00</DateTime><DateTime>2019-10-14 17:45:00</DateTime><DateTime>2019-10-14 20:10:00</DateTime><DateTime>2019-10-14 22:30:00</DateTime><DateTime>2019-10-15 15:15:00</DateTime><DateTime>2019-10-15 17:45:00</DateTime><DateTime>2019-10-15 20:10:00</DateTime><DateTime>2019-10-15 22:30:00</DateTime><DateTime>2019-10-16 15:15:00</DateTime><DateTime>2019-10-16 17:45:00</DateTime><DateTime>2019-10-16 20:10:00</DateTime><DateTime>2019-10-16 22:30:00</DateTime><DateTime>2019-10-17 15:15:00</DateTime><DateTime>2019-10-17 17:45:00</DateTime><DateTime>2019-10-17 20:10:00</DateTime><DateTime>2019-10-17 22:30:00</DateTime><DateTime>2019-10-11 22:30:00</DateTime></Timetable>
     <Events></Events>
     <URL>http://www.cinetecadibologna.it/vedere/programmazione/9895</URL>
 </Schedule>
@@ -82,7 +82,7 @@
     <FlagTeens>0</FlagTeens>
     <FlagOriginalLanguage>1</FlagOriginalLanguage>
     <FlagOrchestra>0</FlagOrchestra>
-    <Timetable><DateTime>2018-10-11 20:00:00</DateTime><DateTime>2018-10-12 17:30:00</DateTime><DateTime>2018-10-13 20:00:00</DateTime><DateTime>2018-10-14 17:30:00</DateTime><DateTime>2018-10-15 20:00:00</DateTime><DateTime>2018-10-16 17:30:00</DateTime><DateTime>2018-10-17 20:00:00</DateTime><DateTime>2018-10-11 20:00:00</DateTime></Timetable>
+    <Timetable><DateTime>2019-10-11 20:00:00</DateTime><DateTime>2019-10-12 17:30:00</DateTime><DateTime>2019-10-13 20:00:00</DateTime><DateTime>2019-10-14 17:30:00</DateTime><DateTime>2019-10-15 20:00:00</DateTime><DateTime>2019-10-16 17:30:00</DateTime><DateTime>2019-10-17 20:00:00</DateTime><DateTime>2019-10-11 20:00:00</DateTime></Timetable>
     <Events></Events>
     <URL>http://www.cinetecadibologna.it/vedere/programmazione/9896</URL>
 </Schedule>
@@ -103,7 +103,7 @@
     <FlagTeens>0</FlagTeens>
     <FlagOriginalLanguage>0</FlagOriginalLanguage>
     <FlagOrchestra>0</FlagOrchestra>
-    <Timetable><DateTime>2018-10-11 20:00:00</DateTime><DateTime>2018-10-12 17:30:00</DateTime><DateTime>2018-10-13 15:00:00</DateTime><DateTime>2018-10-13 20:00:00</DateTime><DateTime>2018-10-14 17:30:00</DateTime><DateTime>2018-10-15 17:30:00</DateTime><DateTime>2018-10-16 17:30:00</DateTime><DateTime>2018-10-17 20:00:00</DateTime><DateTime>2018-10-11 20:00:00</DateTime></Timetable>
+    <Timetable><DateTime>2019-10-11 20:00:00</DateTime><DateTime>2019-10-12 17:30:00</DateTime><DateTime>2019-10-13 15:00:00</DateTime><DateTime>2019-10-13 20:00:00</DateTime><DateTime>2019-10-14 17:30:00</DateTime><DateTime>2019-10-15 17:30:00</DateTime><DateTime>2019-10-16 17:30:00</DateTime><DateTime>2019-10-17 20:00:00</DateTime><DateTime>2019-10-11 20:00:00</DateTime></Timetable>
     <Events></Events>
     <URL>http://www.cinetecadibologna.it/vedere/programmazione/9897</URL>
 </Schedule>
@@ -115,7 +115,7 @@
     <Thumbnail>http://www.cinetecadibologna.it/imageserver/thumb_programmazione/files/lumiere/ottobre2018/MorteaVenezia.jpg</Thumbnail>
     <Abstract><![CDATA[<p>(Italia-Francia-USA/1971) di Luchino Visconti (130')</p>
 <p>Precede a una selezione di home movies su Venezia girati da Giancarlo Stucky a inizio Novecento.</p>]]></Abstract>
-    <LocationName>Cinema Lumière - Sala Officinema/Mastroianni</LocationName>
+    <LocationName>Cinema LumiÃ¨re - Sala Officinema/Mastroianni</LocationName>
     <LocationAddress>Piazzetta Pier Paolo Pasolini (ingresso via Azzo Gardino 65)</LocationAddress>
     <LocationGPS>44.502025,11.334717</LocationGPS>
     <FlagItalianPrimetime>0</FlagItalianPrimetime>
@@ -125,7 +125,7 @@
     <FlagTeens>0</FlagTeens>
     <FlagOriginalLanguage>0</FlagOriginalLanguage>
     <FlagOrchestra>0</FlagOrchestra>
-    <Timetable><DateTime>2018-10-15 22:30:00</DateTime><DateTime>2018-10-15 17:30:00</DateTime><DateTime>2018-10-15 20:00:00</DateTime><DateTime>2018-10-16 17:30:00</DateTime><DateTime>2018-10-16 20:00:00</DateTime><DateTime>2018-10-16 22:30:00</DateTime><DateTime>2018-10-22 17:30:00</DateTime><DateTime>2018-10-22 20:00:00</DateTime><DateTime>2018-10-22 22:30:00</DateTime><DateTime>2018-10-23 17:30:00</DateTime><DateTime>2018-10-23 20:00:00</DateTime><DateTime>2018-10-23 22:30:00</DateTime><DateTime>2018-10-24 17:30:00</DateTime><DateTime>2018-10-29 18:00:00</DateTime><DateTime>2018-10-15 22:30:00</DateTime></Timetable>
+    <Timetable><DateTime>2019-10-15 22:30:00</DateTime><DateTime>2019-10-15 17:30:00</DateTime><DateTime>2019-10-15 20:00:00</DateTime><DateTime>2019-10-16 17:30:00</DateTime><DateTime>2019-10-16 20:00:00</DateTime><DateTime>2019-10-16 22:30:00</DateTime><DateTime>2019-10-22 17:30:00</DateTime><DateTime>2019-10-22 20:00:00</DateTime><DateTime>2019-10-22 22:30:00</DateTime><DateTime>2019-10-23 17:30:00</DateTime><DateTime>2019-10-23 20:00:00</DateTime><DateTime>2019-10-23 22:30:00</DateTime><DateTime>2019-10-24 17:30:00</DateTime><DateTime>2019-10-29 18:00:00</DateTime><DateTime>2019-10-15 22:30:00</DateTime></Timetable>
     <Events><ParentEvent>1104</ParentEvent></Events>
     <URL>http://www.cinetecadibologna.it/vedere/programmazione/9864</URL>
 </Schedule>
