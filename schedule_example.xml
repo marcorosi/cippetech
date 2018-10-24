@@ -17,32 +17,9 @@
     <FlagTeens>0</FlagTeens>
     <FlagOriginalLanguage>1</FlagOriginalLanguage>
     <FlagOrchestra>0</FlagOrchestra>
-    <Timetable><DateTime>2018-09-27 22:30:00</DateTime><DateTime>2018-09-27 17:00:00</DateTime><DateTime>2018-09-28 20:00:00</DateTime><DateTime>2018-09-29 17:00:00</DateTime><DateTime>2018-09-29 22:30:00</DateTime><DateTime>2018-09-30 20:00:00</DateTime><DateTime>2018-10-01 17:00:00</DateTime><DateTime>2018-10-01 22:30:00</DateTime><DateTime>2018-10-02 20:00:00</DateTime><DateTime>2018-10-03 17:00:00</DateTime><DateTime>2018-10-03 22:30:00</DateTime><DateTime>2018-10-04 17:00:00</DateTime><DateTime>2018-10-04 22:30:00</DateTime><DateTime>2018-10-05 20:00:00</DateTime><DateTime>2018-10-06 17:00:00</DateTime><DateTime>2018-10-06 22:30:00</DateTime><DateTime>2018-10-07 20:00:00</DateTime><DateTime>2018-10-08 17:00:00</DateTime><DateTime>2018-10-08 22:30:00</DateTime><DateTime>2018-10-10 22:30:00</DateTime><DateTime>2018-10-11 17:30:00</DateTime><DateTime>2018-10-11 22:30:00</DateTime><DateTime>2018-10-12 20:00:00</DateTime><DateTime>2018-10-12 22:30:00</DateTime><DateTime>2018-10-13 17:30:00</DateTime><DateTime>2018-10-13 22:30:00</DateTime><DateTime>2018-10-14 15:00:00</DateTime><DateTime>2018-10-14 20:00:00</DateTime><DateTime>2018-10-14 22:30:00</DateTime><DateTime>2018-10-15 20:00:00</DateTime><DateTime>2018-10-15 22:30:00</DateTime><DateTime>2018-10-16 20:00:00</DateTime><DateTime>2018-10-16 22:30:00</DateTime><DateTime>2018-10-17 17:30:00</DateTime><DateTime>2018-10-17 22:30:00</DateTime><DateTime>2018-09-27 22:30:00</DateTime></Timetable>
+    <Timetable><DateTime>2018-09-27 22:30:00</DateTime><DateTime>2018-09-27 17:00:00</DateTime><DateTime>2018-09-28 20:00:00</DateTime><DateTime>2018-09-29 17:00:00</DateTime><DateTime>2018-09-29 22:30:00</DateTime><DateTime>2018-09-30 20:00:00</DateTime><DateTime>2018-10-01 17:00:00</DateTime><DateTime>2018-10-01 22:30:00</DateTime><DateTime>2018-10-02 20:00:00</DateTime><DateTime>2018-10-03 17:00:00</DateTime><DateTime>2018-10-03 22:30:00</DateTime><DateTime>2018-10-04 17:00:00</DateTime><DateTime>2018-10-04 22:30:00</DateTime><DateTime>2018-10-05 20:00:00</DateTime><DateTime>2018-10-06 17:00:00</DateTime><DateTime>2018-10-06 22:30:00</DateTime><DateTime>2018-10-07 20:00:00</DateTime><DateTime>2018-10-08 17:00:00</DateTime><DateTime>2018-10-08 22:30:00</DateTime><DateTime>2018-10-10 22:30:00</DateTime><DateTime>2018-10-11 17:30:00</DateTime><DateTime>2018-10-11 22:30:00</DateTime><DateTime>2018-10-12 20:00:00</DateTime><DateTime>2018-10-12 22:30:00</DateTime><DateTime>2018-10-13 17:30:00</DateTime><DateTime>2018-10-13 22:30:00</DateTime><DateTime>2018-10-14 15:00:00</DateTime><DateTime>2018-10-14 20:00:00</DateTime><DateTime>2018-10-14 22:30:00</DateTime><DateTime>2018-10-15 20:00:00</DateTime><DateTime>2018-10-15 22:30:00</DateTime><DateTime>2018-10-16 20:00:00</DateTime><DateTime>2018-10-16 22:30:00</DateTime><DateTime>2018-10-17 17:30:00</DateTime><DateTime>2018-10-17 22:30:00</DateTime><DateTime>2018-10-18 17:30:00</DateTime><DateTime>2018-10-19 20:00:00</DateTime><DateTime>2018-10-20 22:30:00</DateTime><DateTime>2018-10-21 20:00:00</DateTime><DateTime>2018-10-22 17:30:00</DateTime><DateTime>2018-09-27 22:30:00</DateTime></Timetable>
     <Events></Events>
     <URL>http://www.cinetecadibologna.it/vedere/programmazione/9824</URL>
-</Schedule>
-<Schedule>
-    <ID>9860</ID>
-    <Title>LA STRADA DEI SAMOUNI</Title>
-    <Subtitle></Subtitle>
-    <Type>movie</Type>
-    <Thumbnail>http://www.cinetecadibologna.it/imageserver/thumb_programmazione/files/lumiere/ottobre2018/strada_dei_samouni.png</Thumbnail>
-    <Abstract><![CDATA[<p>(Italia-Francia/2018) di Stefano Savona (128')<br /><strong>Prevendita on-line</strong></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>]]></Abstract>
-    <LocationName>Sala Cervi</LocationName>
-    <LocationAddress>via Riva di Reno, 72</LocationAddress>
-    <LocationGPS>44.498828,11.336857</LocationGPS>
-    <FlagItalianPrimetime>0</FlagItalianPrimetime>
-    <FlagFIC>0</FlagFIC>
-    <FlagCinefilia>0</FlagCinefilia>
-    <FlagChildren>0</FlagChildren>
-    <FlagTeens>0</FlagTeens>
-    <FlagOriginalLanguage>1</FlagOriginalLanguage>
-    <FlagOrchestra>0</FlagOrchestra>
-    <Timetable><DateTime>2018-10-11 22:30:00</DateTime><DateTime>2018-10-11 15:00:00</DateTime><DateTime>2018-10-12 20:10:00</DateTime><DateTime>2018-10-12 22:30:00</DateTime><DateTime>2018-10-13 15:00:00</DateTime><DateTime>2018-10-13 17:30:00</DateTime><DateTime>2018-10-13 22:30:00</DateTime><DateTime>2018-10-14 15:00:00</DateTime><DateTime>2018-10-14 20:10:00</DateTime><DateTime>2018-10-14 22:30:00</DateTime><DateTime>2018-10-15 17:30:00</DateTime><DateTime>2018-10-15 22:30:00</DateTime><DateTime>2018-10-16 20:10:00</DateTime><DateTime>2018-10-16 22:30:00</DateTime><DateTime>2018-10-17 17:30:00</DateTime><DateTime>2018-10-17 22:30:00</DateTime><DateTime>2018-10-11 22:30:00</DateTime></Timetable>
-    <Events></Events>
-    <URL>http://www.cinetecadibologna.it/vedere/programmazione/9860</URL>
 </Schedule>
 <Schedule>
     <ID>9895</ID>
@@ -51,7 +28,7 @@
     <Type>movie</Type>
     <Thumbnail>http://www.cinetecadibologna.it/imageserver/thumb_programmazione/files/arene/GranReno/2018/A-Star-is-Born.jpg</Thumbnail>
     <Abstract><![CDATA[<p>(USA/2018) di Bradley Cooper (135')<strong><br />Prevendita on-line<br /></strong></p>]]></Abstract>
-    <LocationName>Cinema Lumi�re - Sala Scorsese</LocationName>
+    <LocationName>Cinema Lumière - Sala Scorsese</LocationName>
     <LocationAddress>Piazzetta Pier Paolo Pasolini (ingresso via Azzo Gardino 65)</LocationAddress>
     <LocationGPS>44.502025,11.334717</LocationGPS>
     <FlagItalianPrimetime>0</FlagItalianPrimetime>
@@ -61,17 +38,17 @@
     <FlagTeens>0</FlagTeens>
     <FlagOriginalLanguage>1</FlagOriginalLanguage>
     <FlagOrchestra>0</FlagOrchestra>
-    <Timetable><DateTime>2018-10-11 22:30:00</DateTime><DateTime>2018-10-11 15:15:00</DateTime><DateTime>2018-10-11 17:45:00</DateTime><DateTime>2018-10-11 20:10:00</DateTime><DateTime>2018-10-12 18:00:00</DateTime><DateTime>2018-10-12 20:10:00</DateTime><DateTime>2018-10-12 22:30:00</DateTime><DateTime>2018-10-13 17:45:00</DateTime><DateTime>2018-10-13 20:10:00</DateTime><DateTime>2018-10-13 22:30:00</DateTime><DateTime>2018-10-14 15:15:00</DateTime><DateTime>2018-10-14 17:45:00</DateTime><DateTime>2018-10-14 20:10:00</DateTime><DateTime>2018-10-14 22:30:00</DateTime><DateTime>2018-10-15 15:15:00</DateTime><DateTime>2018-10-15 17:45:00</DateTime><DateTime>2018-10-15 20:10:00</DateTime><DateTime>2018-10-15 22:30:00</DateTime><DateTime>2018-10-16 15:15:00</DateTime><DateTime>2018-10-16 17:45:00</DateTime><DateTime>2018-10-16 20:10:00</DateTime><DateTime>2018-10-16 22:30:00</DateTime><DateTime>2018-10-17 15:15:00</DateTime><DateTime>2018-10-17 17:45:00</DateTime><DateTime>2018-10-17 20:10:00</DateTime><DateTime>2018-10-17 22:30:00</DateTime><DateTime>2018-10-11 22:30:00</DateTime></Timetable>
+    <Timetable><DateTime>2018-10-11 22:30:00</DateTime><DateTime>2018-10-11 15:15:00</DateTime><DateTime>2018-10-11 17:45:00</DateTime><DateTime>2018-10-11 20:10:00</DateTime><DateTime>2018-10-12 18:00:00</DateTime><DateTime>2018-10-12 20:10:00</DateTime><DateTime>2018-10-12 22:30:00</DateTime><DateTime>2018-10-13 17:45:00</DateTime><DateTime>2018-10-13 20:10:00</DateTime><DateTime>2018-10-13 22:30:00</DateTime><DateTime>2018-10-14 15:15:00</DateTime><DateTime>2018-10-14 17:45:00</DateTime><DateTime>2018-10-14 20:10:00</DateTime><DateTime>2018-10-14 22:30:00</DateTime><DateTime>2018-10-15 15:15:00</DateTime><DateTime>2018-10-15 17:45:00</DateTime><DateTime>2018-10-15 20:10:00</DateTime><DateTime>2018-10-15 22:30:00</DateTime><DateTime>2018-10-16 15:15:00</DateTime><DateTime>2018-10-16 17:45:00</DateTime><DateTime>2018-10-16 20:10:00</DateTime><DateTime>2018-10-16 22:30:00</DateTime><DateTime>2018-10-17 15:15:00</DateTime><DateTime>2018-10-17 17:45:00</DateTime><DateTime>2018-10-17 20:10:00</DateTime><DateTime>2018-10-17 22:30:00</DateTime><DateTime>2018-10-18 22:15:00</DateTime><DateTime>2018-10-19 17:45:00</DateTime><DateTime>2018-10-20 17:45:00</DateTime><DateTime>2018-10-21 22:15:00</DateTime><DateTime>2018-10-22 22:15:00</DateTime><DateTime>2018-10-23 22:15:00</DateTime><DateTime>2018-10-24 17:45:00</DateTime><DateTime>2018-10-11 22:30:00</DateTime></Timetable>
     <Events></Events>
     <URL>http://www.cinetecadibologna.it/vedere/programmazione/9895</URL>
 </Schedule>
 <Schedule>
-    <ID>9896</ID>
-    <Title>L'APPARIZIONE</Title>
+    <ID>9901</ID>
+    <Title>IN VIAGGIO CON ADELE</Title>
     <Subtitle></Subtitle>
     <Type>movie</Type>
-    <Thumbnail>http://www.cinetecadibologna.it/imageserver/thumb_programmazione/files/arene/GranReno/2018/03-LA.jpg</Thumbnail>
-    <Abstract><![CDATA[<p>(<em>L'Apparition</em>, Francia/2018) di Xavier Giannoli (144')<strong><br />Prevendita on-line<br /></strong></p>]]></Abstract>
+    <Thumbnail>http://www.cinetecadibologna.it/imageserver/thumb_programmazione/files/arene/GranReno/2018/adele.jpg</Thumbnail>
+    <Abstract><![CDATA[<p>(Italia/2018) di Alessandro Capitani (80')<strong><br /></strong></p>]]></Abstract>
     <LocationName>Sala Cervi</LocationName>
     <LocationAddress>via Riva di Reno, 72</LocationAddress>
     <LocationGPS>44.498828,11.336857</LocationGPS>
@@ -80,19 +57,40 @@
     <FlagCinefilia>0</FlagCinefilia>
     <FlagChildren>0</FlagChildren>
     <FlagTeens>0</FlagTeens>
-    <FlagOriginalLanguage>1</FlagOriginalLanguage>
+    <FlagOriginalLanguage>0</FlagOriginalLanguage>
     <FlagOrchestra>0</FlagOrchestra>
-    <Timetable><DateTime>2018-10-11 20:00:00</DateTime><DateTime>2018-10-12 17:30:00</DateTime><DateTime>2018-10-13 20:00:00</DateTime><DateTime>2018-10-14 17:30:00</DateTime><DateTime>2018-10-15 20:00:00</DateTime><DateTime>2018-10-16 17:30:00</DateTime><DateTime>2018-10-17 20:00:00</DateTime><DateTime>2018-10-11 20:00:00</DateTime></Timetable>
+    <Timetable><DateTime>2018-10-18 22:00:00</DateTime><DateTime>2018-10-18 17:00:00</DateTime><DateTime>2018-10-18 18:40:00</DateTime><DateTime>2018-10-18 20:15:00</DateTime><DateTime>2018-10-19 18:40:00</DateTime><DateTime>2018-10-19 20:15:00</DateTime><DateTime>2018-10-19 22:00:00</DateTime><DateTime>2018-10-20 17:00:00</DateTime><DateTime>2018-10-20 18:40:00</DateTime><DateTime>2018-10-20 20:15:00</DateTime><DateTime>2018-10-20 22:00:00</DateTime><DateTime>2018-10-21 15:30:00</DateTime><DateTime>2018-10-21 17:00:00</DateTime><DateTime>2018-10-21 18:40:00</DateTime><DateTime>2018-10-21 20:15:00</DateTime><DateTime>2018-10-21 22:00:00</DateTime><DateTime>2018-10-22 17:00:00</DateTime><DateTime>2018-10-22 18:40:00</DateTime><DateTime>2018-10-22 20:15:00</DateTime><DateTime>2018-10-22 22:00:00</DateTime><DateTime>2018-10-23 17:00:00</DateTime><DateTime>2018-10-23 18:40:00</DateTime><DateTime>2018-10-23 20:15:00</DateTime><DateTime>2018-10-23 22:00:00</DateTime><DateTime>2018-10-24 17:00:00</DateTime><DateTime>2018-10-24 18:40:00</DateTime><DateTime>2018-10-24 20:15:00</DateTime><DateTime>2018-10-24 22:00:00</DateTime><DateTime>2018-10-18 22:00:00</DateTime></Timetable>
     <Events></Events>
-    <URL>http://www.cinetecadibologna.it/vedere/programmazione/9896</URL>
+    <URL>http://www.cinetecadibologna.it/vedere/programmazione/9901</URL>
 </Schedule>
 <Schedule>
-    <ID>9897</ID>
-    <Title>22 LUGLIO</Title>
+    <ID>9902</ID>
+    <Title>THE CHILDREN ACT - IL VERDETTO</Title>
     <Subtitle></Subtitle>
     <Type>movie</Type>
-    <Thumbnail>http://www.cinetecadibologna.it/imageserver/thumb_programmazione/files/arene/GranReno/2018/22.jpg</Thumbnail>
-    <Abstract><![CDATA[<p>(<em>22 July</em>, Norvegia-Islanda/2018) di Paul Greengrass (143')    <strong><br />Prevendita on-line<br /></strong></p>]]></Abstract>
+    <Thumbnail>http://www.cinetecadibologna.it/imageserver/thumb_programmazione/files/arene/GranReno/2018/Il verdetto.jpg</Thumbnail>
+    <Abstract><![CDATA[<p>(GB/2017) di Richard Eyre (105')<strong><br /><br />Prevendita online<br /></strong></p>]]></Abstract>
+    <LocationName>Cinema Lumière - Sala Scorsese</LocationName>
+    <LocationAddress>Piazzetta Pier Paolo Pasolini (ingresso via Azzo Gardino 65)</LocationAddress>
+    <LocationGPS>44.502025,11.334717</LocationGPS>
+    <FlagItalianPrimetime>0</FlagItalianPrimetime>
+    <FlagFIC>0</FlagFIC>
+    <FlagCinefilia>0</FlagCinefilia>
+    <FlagChildren>0</FlagChildren>
+    <FlagTeens>0</FlagTeens>
+    <FlagOriginalLanguage>1</FlagOriginalLanguage>
+    <FlagOrchestra>0</FlagOrchestra>
+    <Timetable><DateTime>2018-10-18 20:15:00</DateTime><DateTime>2018-10-18 16:15:00</DateTime><DateTime>2018-10-18 18:15:00</DateTime><DateTime>2018-10-19 16:00:00</DateTime><DateTime>2018-10-19 20:15:00</DateTime><DateTime>2018-10-19 22:15:00</DateTime><DateTime>2018-10-20 20:15:00</DateTime><DateTime>2018-10-20 22:15:00</DateTime><DateTime>2018-10-21 18:15:00</DateTime><DateTime>2018-10-21 20:15:00</DateTime><DateTime>2018-10-22 16:15:00</DateTime><DateTime>2018-10-22 18:15:00</DateTime><DateTime>2018-10-22 20:15:00</DateTime><DateTime>2018-10-23 18:15:00</DateTime><DateTime>2018-10-23 20:15:00</DateTime><DateTime>2018-10-24 16:00:00</DateTime><DateTime>2018-10-24 20:15:00</DateTime><DateTime>2018-10-18 20:15:00</DateTime></Timetable>
+    <Events></Events>
+    <URL>http://www.cinetecadibologna.it/vedere/programmazione/9902</URL>
+</Schedule>
+<Schedule>
+    <ID>9904</ID>
+    <Title>A STAR IS BORN</Title>
+    <Subtitle></Subtitle>
+    <Type>movie</Type>
+    <Thumbnail>http://www.cinetecadibologna.it/imageserver/thumb_programmazione/files/arene/GranReno/2018/A-Star-is-Born.jpg</Thumbnail>
+    <Abstract><![CDATA[<p>(USA/2018) di Bradley Cooper (135')<strong><br /><br />Prevendita online<br /><br /></strong></p>]]></Abstract>
     <LocationName>Laboratori delle Arti UniBo</LocationName>
     <LocationAddress>Piazzetta Pier Paolo Pasolini 5/b (ingresso via Azzo Gardino 65)</LocationAddress>
     <LocationGPS>44.5020628,11.3348699</LocationGPS>
@@ -101,21 +99,84 @@
     <FlagCinefilia>0</FlagCinefilia>
     <FlagChildren>0</FlagChildren>
     <FlagTeens>0</FlagTeens>
-    <FlagOriginalLanguage>0</FlagOriginalLanguage>
+    <FlagOriginalLanguage>1</FlagOriginalLanguage>
     <FlagOrchestra>0</FlagOrchestra>
-    <Timetable><DateTime>2018-10-11 20:00:00</DateTime><DateTime>2018-10-12 17:30:00</DateTime><DateTime>2018-10-13 15:00:00</DateTime><DateTime>2018-10-13 20:00:00</DateTime><DateTime>2018-10-14 17:30:00</DateTime><DateTime>2018-10-15 17:30:00</DateTime><DateTime>2018-10-16 17:30:00</DateTime><DateTime>2018-10-17 20:00:00</DateTime><DateTime>2018-10-11 20:00:00</DateTime></Timetable>
+    <Timetable><DateTime>2018-10-18 20:00:00</DateTime><DateTime>2018-10-19 22:30:00</DateTime><DateTime>2018-10-20 15:30:00</DateTime><DateTime>2018-10-20 20:00:00</DateTime><DateTime>2018-10-21 15:00:00</DateTime><DateTime>2018-10-21 17:30:00</DateTime><DateTime>2018-10-22 20:00:00</DateTime><DateTime>2018-10-18 20:00:00</DateTime></Timetable>
     <Events></Events>
-    <URL>http://www.cinetecadibologna.it/vedere/programmazione/9897</URL>
+    <URL>http://www.cinetecadibologna.it/vedere/programmazione/9904</URL>
 </Schedule>
 <Schedule>
-    <ID>9864</ID>
-    <Title>MORTE A VENEZIA</Title>
+    <ID>9905</ID>
+    <Title>THE CHILDREN ACT - IL VERDETTO</Title>
     <Subtitle></Subtitle>
     <Type>movie</Type>
-    <Thumbnail>http://www.cinetecadibologna.it/imageserver/thumb_programmazione/files/lumiere/ottobre2018/MorteaVenezia.jpg</Thumbnail>
-    <Abstract><![CDATA[<p>(Italia-Francia-USA/1971) di Luchino Visconti (130')</p>
-<p>Precede a una selezione di home movies su Venezia girati da Giancarlo Stucky a inizio Novecento.</p>]]></Abstract>
-    <LocationName>Cinema Lumi�re - Sala Officinema/Mastroianni</LocationName>
+    <Thumbnail>http://www.cinetecadibologna.it/imageserver/thumb_programmazione/files/arene/GranReno/2018/Il verdetto.jpg</Thumbnail>
+    <Abstract><![CDATA[<p>(GB/2017) di Richard Eyre (105')<strong><br /><br />Prevendita online<br /></strong></p>]]></Abstract>
+    <LocationName>Laboratori delle Arti UniBo</LocationName>
+    <LocationAddress>Piazzetta Pier Paolo Pasolini 5/b (ingresso via Azzo Gardino 65)</LocationAddress>
+    <LocationGPS>44.5020628,11.3348699</LocationGPS>
+    <FlagItalianPrimetime>0</FlagItalianPrimetime>
+    <FlagFIC>0</FlagFIC>
+    <FlagCinefilia>0</FlagCinefilia>
+    <FlagChildren>0</FlagChildren>
+    <FlagTeens>0</FlagTeens>
+    <FlagOriginalLanguage>1</FlagOriginalLanguage>
+    <FlagOrchestra>0</FlagOrchestra>
+    <Timetable><DateTime>2018-10-18 22:30:00</DateTime><DateTime>2018-10-20 18:00:00</DateTime><DateTime>2018-10-21 22:30:00</DateTime><DateTime>2018-10-22 22:30:00</DateTime><DateTime>2018-10-18 22:30:00</DateTime></Timetable>
+    <Events></Events>
+    <URL>http://www.cinetecadibologna.it/vedere/programmazione/9905</URL>
+</Schedule>
+<Schedule>
+    <ID>9845</ID>
+    <Title>ALLENDE, MI ABUELO ALLENDE</Title>
+    <Subtitle></Subtitle>
+    <Type>movie</Type>
+    <Thumbnail>http://www.cinetecadibologna.it/imageserver/thumb_programmazione/files/lumiere/ottobre2018/Allende_mi_abuelo_allende.jpg</Thumbnail>
+    <Abstract><![CDATA[<p>(Cile-Messico/2015) di Marcia Tambutti-Allende (90')</p>]]></Abstract>
+    <LocationName>Cinema Lumière - Sala Officinema/Mastroianni</LocationName>
+    <LocationAddress>Piazzetta Pier Paolo Pasolini (ingresso via Azzo Gardino 65)</LocationAddress>
+    <LocationGPS>44.502025,11.334717</LocationGPS>
+    <FlagItalianPrimetime>0</FlagItalianPrimetime>
+    <FlagFIC>0</FlagFIC>
+    <FlagCinefilia>0</FlagCinefilia>
+    <FlagChildren>0</FlagChildren>
+    <FlagTeens>0</FlagTeens>
+    <FlagOriginalLanguage>1</FlagOriginalLanguage>
+    <FlagOrchestra>0</FlagOrchestra>
+    <Timetable><DateTime>2018-10-21 10:00:00</DateTime><DateTime>2018-10-21 10:00:00</DateTime></Timetable>
+    <Events><ParentEvent>1103</ParentEvent></Events>
+    <URL>http://www.cinetecadibologna.it/vedere/programmazione/9845</URL>
+</Schedule>
+<Schedule>
+    <ID>9877</ID>
+    <Title>SOLEIL Ô</Title>
+    <Subtitle></Subtitle>
+    <Type>movie</Type>
+    <Thumbnail>http://www.cinetecadibologna.it/imageserver/thumb_programmazione/files/lumiere/ottobre2018/soleilO.jpg</Thumbnail>
+    <Abstract><![CDATA[<p>(Mauritania/1970) di Med Hondo (98')</p>]]></Abstract>
+    <LocationName>Cinema Lumière - Sala Officinema/Mastroianni</LocationName>
+    <LocationAddress>Piazzetta Pier Paolo Pasolini (ingresso via Azzo Gardino 65)</LocationAddress>
+    <LocationGPS>44.502025,11.334717</LocationGPS>
+    <FlagItalianPrimetime>0</FlagItalianPrimetime>
+    <FlagFIC>0</FlagFIC>
+    <FlagCinefilia>0</FlagCinefilia>
+    <FlagChildren>0</FlagChildren>
+    <FlagTeens>0</FlagTeens>
+    <FlagOriginalLanguage>1</FlagOriginalLanguage>
+    <FlagOrchestra>0</FlagOrchestra>
+    <Timetable><DateTime>2018-10-21 15:30:00</DateTime><DateTime>2018-10-21 15:30:00</DateTime></Timetable>
+    <Events><ParentEvent>1106</ParentEvent></Events>
+    <URL>http://www.cinetecadibologna.it/vedere/programmazione/9877</URL>
+</Schedule>
+<Schedule>
+    <ID>9878</ID>
+    <Title>ORTONE E IL MONDO DEI ‘CHI’</Title>
+    <Subtitle></Subtitle>
+    <Type>movie</Type>
+    <Thumbnail>http://www.cinetecadibologna.it/imageserver/thumb_programmazione/files/lumiere/ottobre2018/ortone.jpg</Thumbnail>
+    <Abstract><![CDATA[<p>(<em>Horton hears a Who!</em>, USA/2008) di Jimmy Hayward e Steve Martino (88')</p>
+<p>Animazione. Dai 6 anni in su</p>]]></Abstract>
+    <LocationName>Cinema Lumière - Sala Scorsese</LocationName>
     <LocationAddress>Piazzetta Pier Paolo Pasolini (ingresso via Azzo Gardino 65)</LocationAddress>
     <LocationGPS>44.502025,11.334717</LocationGPS>
     <FlagItalianPrimetime>0</FlagItalianPrimetime>
@@ -125,8 +186,72 @@
     <FlagTeens>0</FlagTeens>
     <FlagOriginalLanguage>0</FlagOriginalLanguage>
     <FlagOrchestra>0</FlagOrchestra>
-    <Timetable><DateTime>2018-10-15 22:30:00</DateTime><DateTime>2018-10-15 17:30:00</DateTime><DateTime>2018-10-15 20:00:00</DateTime><DateTime>2018-10-16 17:30:00</DateTime><DateTime>2018-10-16 20:00:00</DateTime><DateTime>2018-10-16 22:30:00</DateTime><DateTime>2018-10-22 17:30:00</DateTime><DateTime>2018-10-22 20:00:00</DateTime><DateTime>2018-10-22 22:30:00</DateTime><DateTime>2018-10-23 17:30:00</DateTime><DateTime>2018-10-23 20:00:00</DateTime><DateTime>2018-10-23 22:30:00</DateTime><DateTime>2018-10-24 17:30:00</DateTime><DateTime>2018-10-29 18:00:00</DateTime><DateTime>2018-10-15 22:30:00</DateTime></Timetable>
-    <Events><ParentEvent>1104</ParentEvent></Events>
-    <URL>http://www.cinetecadibologna.it/vedere/programmazione/9864</URL>
+    <Timetable><DateTime>2018-10-21 16:00:00</DateTime><DateTime>2018-10-21 16:00:00</DateTime></Timetable>
+    <Events><ParentEvent>1099</ParentEvent></Events>
+    <URL>http://www.cinetecadibologna.it/vedere/programmazione/9878</URL>
+</Schedule>
+<Schedule>
+    <ID>9879</ID>
+    <Title>THIS IS CONGO</Title>
+    <Subtitle></Subtitle>
+    <Type>movie</Type>
+    <Thumbnail>http://www.cinetecadibologna.it/imageserver/thumb_programmazione/files/lumiere/ottobre2018/this_is_congo.jpg</Thumbnail>
+    <Abstract><![CDATA[<p>(USA-Congo/2017) di Daniel McCabe (93')</p>]]></Abstract>
+    <LocationName>Cinema Lumière - Sala Officinema/Mastroianni</LocationName>
+    <LocationAddress>Piazzetta Pier Paolo Pasolini (ingresso via Azzo Gardino 65)</LocationAddress>
+    <LocationGPS>44.502025,11.334717</LocationGPS>
+    <FlagItalianPrimetime>0</FlagItalianPrimetime>
+    <FlagFIC>0</FlagFIC>
+    <FlagCinefilia>0</FlagCinefilia>
+    <FlagChildren>0</FlagChildren>
+    <FlagTeens>0</FlagTeens>
+    <FlagOriginalLanguage>1</FlagOriginalLanguage>
+    <FlagOrchestra>0</FlagOrchestra>
+    <Timetable><DateTime>2018-10-21 17:30:00</DateTime><DateTime>2018-10-21 17:30:00</DateTime></Timetable>
+    <Events><ParentEvent>1106</ParentEvent></Events>
+    <URL>http://www.cinetecadibologna.it/vedere/programmazione/9879</URL>
+</Schedule>
+<Schedule>
+    <ID>9880</ID>
+    <Title>FRONTIÈRES</Title>
+    <Subtitle></Subtitle>
+    <Type>movie</Type>
+    <Thumbnail>http://www.cinetecadibologna.it/imageserver/thumb_programmazione/files/lumiere/ottobre2018/frontiers.jpg</Thumbnail>
+    <Abstract><![CDATA[<p>(Burkina Faso/2016) di Apolline Traor&eacute; (90')</p>
+<p>precede<br /><strong>IO SONO ROSA PARKS</strong> (Italia/2018) di Alessandro Garilli (15')</p>]]></Abstract>
+    <LocationName>Cinema Lumière - Sala Officinema/Mastroianni</LocationName>
+    <LocationAddress>Piazzetta Pier Paolo Pasolini (ingresso via Azzo Gardino 65)</LocationAddress>
+    <LocationGPS>44.502025,11.334717</LocationGPS>
+    <FlagItalianPrimetime>0</FlagItalianPrimetime>
+    <FlagFIC>0</FlagFIC>
+    <FlagCinefilia>0</FlagCinefilia>
+    <FlagChildren>0</FlagChildren>
+    <FlagTeens>0</FlagTeens>
+    <FlagOriginalLanguage>1</FlagOriginalLanguage>
+    <FlagOrchestra>0</FlagOrchestra>
+    <Timetable><DateTime>2018-10-21 20:00:00</DateTime><DateTime>2018-10-21 20:00:00</DateTime></Timetable>
+    <Events><ParentEvent>1106</ParentEvent></Events>
+    <URL>http://www.cinetecadibologna.it/vedere/programmazione/9880</URL>
+</Schedule>
+<Schedule>
+    <ID>9881</ID>
+    <Title>FIVE FINGERS FOR MARSEILLES</Title>
+    <Subtitle></Subtitle>
+    <Type>movie</Type>
+    <Thumbnail>http://www.cinetecadibologna.it/imageserver/thumb_programmazione/files/lumiere/ottobre2018/fie_fingers.jpg</Thumbnail>
+    <Abstract><![CDATA[<p>(Sudafrica/2017) di Michael Matthews (120')</p>]]></Abstract>
+    <LocationName>Cinema Lumière - Sala Officinema/Mastroianni</LocationName>
+    <LocationAddress>Piazzetta Pier Paolo Pasolini (ingresso via Azzo Gardino 65)</LocationAddress>
+    <LocationGPS>44.502025,11.334717</LocationGPS>
+    <FlagItalianPrimetime>0</FlagItalianPrimetime>
+    <FlagFIC>0</FlagFIC>
+    <FlagCinefilia>0</FlagCinefilia>
+    <FlagChildren>0</FlagChildren>
+    <FlagTeens>0</FlagTeens>
+    <FlagOriginalLanguage>1</FlagOriginalLanguage>
+    <FlagOrchestra>0</FlagOrchestra>
+    <Timetable><DateTime>2018-10-21 22:30:00</DateTime><DateTime>2018-10-21 22:30:00</DateTime></Timetable>
+    <Events><ParentEvent>1106</ParentEvent></Events>
+    <URL>http://www.cinetecadibologna.it/vedere/programmazione/9881</URL>
 </Schedule>
 </Scheduling>
