@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<Scheduling>
+<Schedule>
+    <ID>9846</ID>
+    <Title>PRIDE</Title>
+    <Subtitle></Subtitle>
+    <Type>movie</Type>
+    <Thumbnail>http://www.cinetecadibologna.it/imageserver/thumb_programmazione/files/lumiere/ottobre2018/pride.jpg</Thumbnail>
+    <Abstract><![CDATA[<p>(GB/2014) di Matthew Warchus (120')(GB/2014) di Matthew Warchus (120')</p>
+<p>Introduce<strong> Edouard Waintrop</strong></p>]]></Abstract>
+    <LocationName>Cinema Lumière - Sala Officinema/Mastroianni</LocationName>
+    <LocationAddress>Piazzetta Pier Paolo Pasolini (ingresso via Azzo Gardino 65)</LocationAddress>
+    <LocationGPS>44.502025,11.334717</LocationGPS>
+    <FlagItalianPrimetime>0</FlagItalianPrimetime>
+    <FlagFIC>0</FlagFIC>
+    <FlagCinefilia>0</FlagCinefilia>
+    <FlagChildren>0</FlagChildren>
+    <FlagTeens>0</FlagTeens>
+    <FlagOriginalLanguage>1</FlagOriginalLanguage>
+    <FlagOrchestra>0</FlagOrchestra>
+    <Timetable><DateTime>2018-10-28 10:00:00</DateTime><DateTime>2018-10-28 10:00:00</DateTime></Timetable>
+    <Events><ParentEvent>1103</ParentEvent></Events>
+    <URL>http://www.cinetecadibologna.it/vedere/programmazione/9846</URL>
+</Schedule>
+<Schedule>
+    <ID>9886</ID>
+    <Title>HOTEL TRANSYLVANIA 3</Title>
+    <Subtitle></Subtitle>
+    <Type>movie</Type>
+    <Thumbnail>http://www.cinetecadibologna.it/imageserver/thumb_programmazione/files/lumiere/ottobre2018/hotel_transilvania_3.jpg</Thumbnail>
+    <Abstract><![CDATA[<p>(<em>Hotel Transylvania 3 - Summer Vacation</em>, USA/2018) di Genndy Tartakovsky (97')</p>
+<p>Animazione. Dai 6 anni in su</p>]]></Abstract>
+    <LocationName>Cinema Lumière - Sala Officinema/Mastroianni</LocationName>
+    <LocationAddress>Piazzetta Pier Paolo Pasolini (ingresso via Azzo Gardino 65)</LocationAddress>
+    <LocationGPS>44.502025,11.334717</LocationGPS>
+    <FlagItalianPrimetime>0</FlagItalianPrimetime>
+    <FlagFIC>0</FlagFIC>
+    <FlagCinefilia>0</FlagCinefilia>
+    <FlagChildren>0</FlagChildren>
+    <FlagTeens>0</FlagTeens>
+    <FlagOriginalLanguage>0</FlagOriginalLanguage>
+    <FlagOrchestra>0</FlagOrchestra>
+    <Timetable><DateTime>2018-10-28 16:00:00</DateTime><DateTime>2018-10-28 16:00:00</DateTime></Timetable>
+    <Events><ParentEvent>1099</ParentEvent></Events>
+    <URL>http://www.cinetecadibologna.it/vedere/programmazione/9886</URL>
+</Schedule>
+<Schedule>
+    <ID>9887</ID>
+    <Title>MUCH LOVED</Title>
+    <Subtitle></Subtitle>
+    <Type>movie</Type>
+    <Thumbnail>http://www.cinetecadibologna.it/imageserver/thumb_programmazione/files/lumiere/ottobre2018/much_loved.jpg</Thumbnail>
+    <Abstract><![CDATA[<p>(Marocco/2015) di Nabil Ayouch (103')</p>
+<p>Introduce<strong> Edouard Waintrop</strong></p>
+<p>&nbsp;</p>]]></Abstract>
+    <LocationName>Cinema Lumière - Sala Officinema/Mastroianni</LocationName>
+    <LocationAddress>Piazzetta Pier Paolo Pasolini (ingresso via Azzo Gardino 65)</LocationAddress>
+    <LocationGPS>44.502025,11.334717</LocationGPS>
+    <FlagItalianPrimetime>0</FlagItalianPrimetime>
+    <FlagFIC>0</FlagFIC>
+    <FlagCinefilia>0</FlagCinefilia>
+    <FlagChildren>0</FlagChildren>
+    <FlagTeens>0</FlagTeens>
+    <FlagOriginalLanguage>1</FlagOriginalLanguage>
+    <FlagOrchestra>0</FlagOrchestra>
+    <Timetable><DateTime>2018-10-28 18:00:00</DateTime><DateTime>2018-10-28 18:00:00</DateTime></Timetable>
+    <Events></Events>
+    <URL>http://www.cinetecadibologna.it/vedere/programmazione/9887</URL>
+</Schedule>
+</Scheduling>

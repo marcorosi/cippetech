@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<Scheduling>
+<Schedule>
+    <ID>9823</ID>
+    <Title>BLACKKKLANSMAN</Title>
+    <Subtitle></Subtitle>
+    <Type>movie</Type>
+    <Thumbnail>http://www.cinetecadibologna.it/imageserver/thumb_programmazione/files/arene/GranReno/2018/BlacKkKlansman_Adam-Driver-John-David-Washington_foto-dal-film-1-1024x683.jpg</Thumbnail>
+    <Abstract><![CDATA[<p>(USA/2018) di Spike Lee (135')<br /><strong>Prevendita online</strong></p>]]></Abstract>
+    <LocationName>Cinema Lumière - Sala Scorsese</LocationName>
+    <LocationAddress>Piazzetta Pier Paolo Pasolini (ingresso via Azzo Gardino 65)</LocationAddress>
+    <LocationGPS>44.502025,11.334717</LocationGPS>
+    <FlagItalianPrimetime>0</FlagItalianPrimetime>
+    <FlagFIC>0</FlagFIC>
+    <FlagCinefilia>0</FlagCinefilia>
+    <FlagChildren>0</FlagChildren>
+    <FlagTeens>0</FlagTeens>
+    <FlagOriginalLanguage>1</FlagOriginalLanguage>
+    <FlagOrchestra>0</FlagOrchestra>
+    <Timetable><DateTime>2018-09-27 20:00:00</DateTime><DateTime>2018-09-27 15:00:00</DateTime><DateTime>2018-09-28 17:30:00</DateTime><DateTime>2018-09-29 15:00:00</DateTime><DateTime>2018-09-29 20:00:00</DateTime><DateTime>2018-09-30 17:30:00</DateTime><DateTime>2018-09-30 22:30:00</DateTime><DateTime>2018-10-01 15:00:00</DateTime><DateTime>2018-10-01 20:00:00</DateTime><DateTime>2018-10-02 22:30:00</DateTime><DateTime>2018-10-03 15:00:00</DateTime><DateTime>2018-10-03 20:00:00</DateTime><DateTime>2018-10-04 15:00:00</DateTime><DateTime>2018-10-04 20:00:00</DateTime><DateTime>2018-10-05 17:30:00</DateTime><DateTime>2018-10-05 22:30:00</DateTime><DateTime>2018-10-06 20:00:00</DateTime><DateTime>2018-10-07 17:30:00</DateTime><DateTime>2018-10-07 22:30:00</DateTime><DateTime>2018-10-08 15:00:00</DateTime><DateTime>2018-10-08 20:00:00</DateTime><DateTime>2018-10-09 17:30:00</DateTime><DateTime>2018-10-09 22:30:00</DateTime><DateTime>2018-10-10 15:00:00</DateTime><DateTime>2018-10-10 20:00:00</DateTime><DateTime>2018-10-23 15:45:00</DateTime><DateTime>2018-10-24 22:15:00</DateTime><DateTime>2018-09-27 20:00:00</DateTime></Timetable>
+    <Events></Events>
+    <URL>http://www.cinetecadibologna.it/vedere/programmazione/9823</URL>
+</Schedule>
+<Schedule>
+    <ID>9895</ID>
+    <Title>A STAR IS BORN</Title>
+    <Subtitle></Subtitle>
+    <Type>movie</Type>
+    <Thumbnail>http://www.cinetecadibologna.it/imageserver/thumb_programmazione/files/arene/GranReno/2018/A-Star-is-Born.jpg</Thumbnail>
+    <Abstract><![CDATA[<p>(USA/2018) di Bradley Cooper (135')<strong><br />Prevendita on-line<br /></strong></p>]]></Abstract>
+    <LocationName>Cinema Lumière - Sala Scorsese</LocationName>
+    <LocationAddress>Piazzetta Pier Paolo Pasolini (ingresso via Azzo Gardino 65)</LocationAddress>
+    <LocationGPS>44.502025,11.334717</LocationGPS>
+    <FlagItalianPrimetime>0</FlagItalianPrimetime>
+    <FlagFIC>0</FlagFIC>
+    <FlagCinefilia>0</FlagCinefilia>
+    <FlagChildren>0</FlagChildren>
+    <FlagTeens>0</FlagTeens>
+    <FlagOriginalLanguage>1</FlagOriginalLanguage>
+    <FlagOrchestra>0</FlagOrchestra>
+    <Timetable><DateTime>2018-10-11 22:30:00</DateTime><DateTime>2018-10-11 15:15:00</DateTime><DateTime>2018-10-11 17:45:00</DateTime><DateTime>2018-10-11 20:10:00</DateTime><DateTime>2018-10-12 18:00:00</DateTime><DateTime>2018-10-12 20:10:00</DateTime><DateTime>2018-10-12 22:30:00</DateTime><DateTime>2018-10-13 17:45:00</DateTime><DateTime>2018-10-13 20:10:00</DateTime><DateTime>2018-10-13 22:30:00</DateTime><DateTime>2018-10-14 15:15:00</DateTime><DateTime>2018-10-14 17:45:00</DateTime><DateTime>2018-10-14 20:10:00</DateTime><DateTime>2018-10-14 22:30:00</DateTime><DateTime>2018-10-15 15:15:00</DateTime><DateTime>2018-10-15 17:45:00</DateTime><DateTime>2018-10-15 20:10:00</DateTime><DateTime>2018-10-15 22:30:00</DateTime><DateTime>2018-10-16 15:15:00</DateTime><DateTime>2018-10-16 17:45:00</DateTime><DateTime>2018-10-16 20:10:00</DateTime><DateTime>2018-10-16 22:30:00</DateTime><DateTime>2018-10-17 15:15:00</DateTime><DateTime>2018-10-17 17:45:00</DateTime><DateTime>2018-10-17 20:10:00</DateTime><DateTime>2018-10-17 22:30:00</DateTime><DateTime>2018-10-18 22:15:00</DateTime><DateTime>2018-10-19 17:45:00</DateTime><DateTime>2018-10-20 17:45:00</DateTime><DateTime>2018-10-21 22:15:00</DateTime><DateTime>2018-10-22 22:15:00</DateTime><DateTime>2018-10-23 22:15:00</DateTime><DateTime>2018-10-24 17:45:00</DateTime><DateTime>2018-10-11 22:30:00</DateTime></Timetable>
+    <Events></Events>
+    <URL>http://www.cinetecadibologna.it/vedere/programmazione/9895</URL>
+</Schedule>
+<Schedule>
+    <ID>9864</ID>
+    <Title>MORTE A VENEZIA</Title>
+    <Subtitle></Subtitle>
+    <Type>movie</Type>
+    <Thumbnail>http://www.cinetecadibologna.it/imageserver/thumb_programmazione/files/lumiere/ottobre2018/MorteaVenezia.jpg</Thumbnail>
+    <Abstract><![CDATA[<p>(Italia-Francia-USA/1971) di Luchino Visconti (130')</p>
+<p>Precede a una selezione di home movies su Venezia girati da Giancarlo Stucky a inizio Novecento.</p>]]></Abstract>
+    <LocationName>Cinema Lumière - Sala Officinema/Mastroianni</LocationName>
+    <LocationAddress>Piazzetta Pier Paolo Pasolini (ingresso via Azzo Gardino 65)</LocationAddress>
+    <LocationGPS>44.502025,11.334717</LocationGPS>
+    <FlagItalianPrimetime>0</FlagItalianPrimetime>
+    <FlagFIC>0</FlagFIC>
+    <FlagCinefilia>0</FlagCinefilia>
+    <FlagChildren>0</FlagChildren>
+    <FlagTeens>0</FlagTeens>
+    <FlagOriginalLanguage>0</FlagOriginalLanguage>
+    <FlagOrchestra>0</FlagOrchestra>
+    <Timetable><DateTime>2018-10-15 22:30:00</DateTime><DateTime>2018-10-15 17:30:00</DateTime><DateTime>2018-10-15 20:00:00</DateTime><DateTime>2018-10-16 17:30:00</DateTime><DateTime>2018-10-16 20:00:00</DateTime><DateTime>2018-10-16 22:30:00</DateTime><DateTime>2018-10-22 17:30:00</DateTime><DateTime>2018-10-22 20:00:00</DateTime><DateTime>2018-10-22 22:30:00</DateTime><DateTime>2018-10-23 17:30:00</DateTime><DateTime>2018-10-23 20:00:00</DateTime><DateTime>2018-10-23 22:30:00</DateTime><DateTime>2018-10-24 17:30:00</DateTime><DateTime>2018-10-29 18:00:00</DateTime><DateTime>2018-10-15 22:30:00</DateTime></Timetable>
+    <Events><ParentEvent>1104</ParentEvent></Events>
+    <URL>http://www.cinetecadibologna.it/vedere/programmazione/9864</URL>
+</Schedule>
+<Schedule>
+    <ID>9901</ID>
+    <Title>IN VIAGGIO CON ADELE</Title>
+    <Subtitle></Subtitle>
+    <Type>movie</Type>
+    <Thumbnail>http://www.cinetecadibologna.it/imageserver/thumb_programmazione/files/arene/GranReno/2018/adele.jpg</Thumbnail>
+    <Abstract><![CDATA[<p>(Italia/2018) di Alessandro Capitani (80')<strong><br /></strong></p>]]></Abstract>
+    <LocationName>Sala Cervi</LocationName>
+    <LocationAddress>via Riva di Reno, 72</LocationAddress>
+    <LocationGPS>44.498828,11.336857</LocationGPS>
+    <FlagItalianPrimetime>0</FlagItalianPrimetime>
+    <FlagFIC>0</FlagFIC>
+    <FlagCinefilia>0</FlagCinefilia>
+    <FlagChildren>0</FlagChildren>
+    <FlagTeens>0</FlagTeens>
+    <FlagOriginalLanguage>0</FlagOriginalLanguage>
+    <FlagOrchestra>0</FlagOrchestra>
+    <Timetable><DateTime>2018-10-18 22:00:00</DateTime><DateTime>2018-10-18 17:00:00</DateTime><DateTime>2018-10-18 18:40:00</DateTime><DateTime>2018-10-18 20:15:00</DateTime><DateTime>2018-10-19 18:40:00</DateTime><DateTime>2018-10-19 20:15:00</DateTime><DateTime>2018-10-19 22:00:00</DateTime><DateTime>2018-10-20 17:00:00</DateTime><DateTime>2018-10-20 18:40:00</DateTime><DateTime>2018-10-20 20:15:00</DateTime><DateTime>2018-10-20 22:00:00</DateTime><DateTime>2018-10-21 15:30:00</DateTime><DateTime>2018-10-21 17:00:00</DateTime><DateTime>2018-10-21 18:40:00</DateTime><DateTime>2018-10-21 20:15:00</DateTime><DateTime>2018-10-21 22:00:00</DateTime><DateTime>2018-10-22 17:00:00</DateTime><DateTime>2018-10-22 18:40:00</DateTime><DateTime>2018-10-22 20:15:00</DateTime><DateTime>2018-10-22 22:00:00</DateTime><DateTime>2018-10-23 17:00:00</DateTime><DateTime>2018-10-23 18:40:00</DateTime><DateTime>2018-10-23 20:15:00</DateTime><DateTime>2018-10-23 22:00:00</DateTime><DateTime>2018-10-24 17:00:00</DateTime><DateTime>2018-10-24 18:40:00</DateTime><DateTime>2018-10-24 20:15:00</DateTime><DateTime>2018-10-24 22:00:00</DateTime><DateTime>2018-10-18 22:00:00</DateTime></Timetable>
+    <Events></Events>
+    <URL>http://www.cinetecadibologna.it/vedere/programmazione/9901</URL>
+</Schedule>
+<Schedule>
+    <ID>9902</ID>
+    <Title>THE CHILDREN ACT - IL VERDETTO</Title>
+    <Subtitle></Subtitle>
+    <Type>movie</Type>
+    <Thumbnail>http://www.cinetecadibologna.it/imageserver/thumb_programmazione/files/arene/GranReno/2018/Il verdetto.jpg</Thumbnail>
+    <Abstract><![CDATA[<p>(GB/2017) di Richard Eyre (105')<strong><br /><br />Prevendita online<br /></strong></p>]]></Abstract>
+    <LocationName>Cinema Lumière - Sala Scorsese</LocationName>
+    <LocationAddress>Piazzetta Pier Paolo Pasolini (ingresso via Azzo Gardino 65)</LocationAddress>
+    <LocationGPS>44.502025,11.334717</LocationGPS>
+    <FlagItalianPrimetime>0</FlagItalianPrimetime>
+    <FlagFIC>0</FlagFIC>
+    <FlagCinefilia>0</FlagCinefilia>
+    <FlagChildren>0</FlagChildren>
+    <FlagTeens>0</FlagTeens>
+    <FlagOriginalLanguage>1</FlagOriginalLanguage>
+    <FlagOrchestra>0</FlagOrchestra>
+    <Timetable><DateTime>2018-10-18 20:15:00</DateTime><DateTime>2018-10-18 16:15:00</DateTime><DateTime>2018-10-18 18:15:00</DateTime><DateTime>2018-10-19 16:00:00</DateTime><DateTime>2018-10-19 20:15:00</DateTime><DateTime>2018-10-19 22:15:00</DateTime><DateTime>2018-10-20 20:15:00</DateTime><DateTime>2018-10-20 22:15:00</DateTime><DateTime>2018-10-21 18:15:00</DateTime><DateTime>2018-10-21 20:15:00</DateTime><DateTime>2018-10-22 16:15:00</DateTime><DateTime>2018-10-22 18:15:00</DateTime><DateTime>2018-10-22 20:15:00</DateTime><DateTime>2018-10-23 18:15:00</DateTime><DateTime>2018-10-23 20:15:00</DateTime><DateTime>2018-10-24 16:00:00</DateTime><DateTime>2018-10-24 20:15:00</DateTime><DateTime>2018-10-25 18:15:00</DateTime><DateTime>2018-10-25 20:15:00</DateTime><DateTime>2018-10-18 20:15:00</DateTime></Timetable>
+    <Events></Events>
+    <URL>http://www.cinetecadibologna.it/vedere/programmazione/9902</URL>
+</Schedule>
+<Schedule>
+    <ID>9875</ID>
+    <Title>T-JUNCTION</Title>
+    <Subtitle></Subtitle>
+    <Type>movie</Type>
+    <Thumbnail>http://www.cinetecadibologna.it/imageserver/thumb_programmazione/files/lumiere/ottobre2018/T_Junction.jpg</Thumbnail>
+    <Abstract><![CDATA[<p>(Tanzania/2017) di Amil Shivji (105')</p>]]></Abstract>
+    <LocationName>Cinema Lumière - Sala Officinema/Mastroianni</LocationName>
+    <LocationAddress>Piazzetta Pier Paolo Pasolini (ingresso via Azzo Gardino 65)</LocationAddress>
+    <LocationGPS>44.502025,11.334717</LocationGPS>
+    <FlagItalianPrimetime>0</FlagItalianPrimetime>
+    <FlagFIC>0</FlagFIC>
+    <FlagCinefilia>0</FlagCinefilia>
+    <FlagChildren>0</FlagChildren>
+    <FlagTeens>0</FlagTeens>
+    <FlagOriginalLanguage>1</FlagOriginalLanguage>
+    <FlagOrchestra>0</FlagOrchestra>
+    <Timetable><DateTime>2018-10-20 20:00:00</DateTime><DateTime>2018-10-24 20:00:00</DateTime><DateTime>2018-10-20 20:00:00</DateTime></Timetable>
+    <Events><ParentEvent>1106</ParentEvent></Events>
+    <URL>http://www.cinetecadibologna.it/vedere/programmazione/9875</URL>
+</Schedule>
+</Scheduling>
