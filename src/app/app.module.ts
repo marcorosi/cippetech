@@ -4,7 +4,7 @@ import { NgModule } from '@angular/core';
 import { AppComponent } from './app.component';
 import { ElencoComponent } from './elenco.component';
 import { HttpClientModule } from '@angular/common/http';
-import { NgxSpinnerModule } from 'ngx-spinner';
+//import { NgxSpinnerModule } from 'ngx-spinner';
 import { ServiceWorkerModule } from '@angular/service-worker';
 import { environment } from '../environments/environment';
 
@@ -16,7 +16,7 @@ import { environment } from '../environments/environment';
   imports: [
     BrowserModule,
     HttpClientModule,
-    NgxSpinnerModule,
+    //NgxSpinnerModule,
     ServiceWorkerModule.register('ngsw-worker.js', { enabled: environment.production })
   ],
   providers: [],

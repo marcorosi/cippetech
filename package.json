@@ -25,7 +25,6 @@
     "core-js": "2.5.7",
     "date-fns": "1.29.0",
     "events": "3.0.0",
-    "ngx-spinner": "^6.1.2",
     "rxjs": "6.3.3",
     "string_decoder": "1.1.1",
     "timers": "0.1.1",

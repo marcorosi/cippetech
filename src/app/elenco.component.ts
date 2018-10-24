@@ -2,7 +2,8 @@ import { Component, ViewEncapsulation, Input, OnInit } from '@angular/core';
 import { map } from 'rxjs/operators';
 import { switchMap } from 'rxjs/operators';
 import { CinetecaService} from './cineteca.service';
-import { NgxSpinnerService } from 'ngx-spinner';
+//import { NgxSpinnerService } from 'ngx-spinner';
+import { Observable } from 'rxjs';
 
 @Component({
   selector: 'elenco',
@@ -12,18 +13,24 @@ import { NgxSpinnerService } from 'ngx-spinner';
 })
 export class ElencoComponent implements OnInit  {
   
-  films:any[];
+  films$:Observable<any[]>;
 
-  constructor(private cinetecaService: CinetecaService, private spinner: NgxSpinnerService){
+  fake = [1,2,3,4,5,6];
+
+  //constructor(private cinetecaService: CinetecaService, private spinner: NgxSpinnerService){
+  constructor(private cinetecaService: CinetecaService) {
 
   }
   
   ngOnInit(){
     console.log('parto...');
+    this.films$ = this.cinetecaService.getTodaySchedule();
+    /*
     this.cinetecaService.getTodaySchedule().subscribe(res=>{
         console.log(res);
-        this.spinner.hide();
+        //this.spinner.hide();
         this.films=res;
       });
+      */
   }
 }

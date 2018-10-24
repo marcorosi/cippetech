@@ -1,32 +1,37 @@
-<article *ngFor="let film of films" class="movie">
-  <div class="movie-when">
-    <div class="hour-alert" *ngIf="film.remaingTime">Inizia tra {{film.remaingTime}}!</div>
-    <div *ngFor="let d of film.dataeora; let i = index" class="hour">
-      <ng-container *ngIf="i==0">Ore</ng-container> 
-      <ng-container *ngIf="i>0">/</ng-container> {{d | date:'H:mm'}}
+<ng-container *ngIf="films$ | async as films; else loading">
+  <article *ngFor="let film of films" class="movie">
+    <div class="movie-when">
+      <div class="hour-alert" *ngIf="film.remaingTime">Inizia tra {{film.remaingTime}}!</div>
+      <div *ngFor="let d of film.dataeora; let i = index" class="hour">
+        <ng-container *ngIf="i==0">Ore</ng-container> 
+        <ng-container *ngIf="i>0">/</ng-container> {{d | date:'H:mm'}}
+      </div>
     </div>
-  </div>
-  <div class="movie-info">
-    <div class="movie__img">
-      <img src="{{film.thumb}}" alt="Thumbnail {{film.Title}}" />
+    <div class="movie-info">
+      <div class="movie__img">
+        <img src="{{film.thumb}}" alt="Thumbnail {{film.Title}}" />
+      </div>
+      <div class="movie__txt">
+          <h1>{{film.Title}}</h1>
+          <div [innerHtml]="film.Abstract"></div>
+          <a href="{{film.linkYoutube}}" target="_blank" rel="noreferrer" class="video">
+            <!--i class="material-icons">video_library</i--> Vedi trailer
+          </a>
+      </div>
     </div>
-    <div class="movie__txt">
-        <h1>{{film.Title}}</h1>
-        <div [innerHtml]="film.Abstract"></div>
-        <a href="{{film.linkYoutube}}" target="_blank" rel="noreferrer" class="video">
-          <i class="material-icons">video_library</i> Vedi trailer
-        </a>
+    <div class="movie-where">
+      <div>
+          <p><span>Dove:</span> {{film.LocationName}}</p>
+          <!--<p>{{film.LocationAddress}}</p>-->
+      </div>
+      <div class="map">
+          <a href="{{film.linkMap}}" target="_blank" rel="noreferrer">
+            <!--i class="material-icons">place</i--> Vedi mappa
+          </a>
+      </div>
     </div>
-  </div>
-  <div class="movie-where">
-    <div>
-        <p><span>Dove:</span> {{film.LocationName}}</p>
-        <!--<p>{{film.LocationAddress}}</p>-->
-    </div>
-    <div class="map">
-        <a href="{{film.linkMap}}" target="_blank" rel="noreferrer">
-          <i class="material-icons">place</i> Vedi mappa
-        </a>
-    </div>
-  </div>
-</article>
+  </article>  
+</ng-container>
+<ng-template #loading>
+  <div *ngFor="let f of fake" class="movie fake"></div>
+</ng-template>

@@ -5,6 +5,10 @@
   position: relative;
 }
 
+.fake {
+  min-height: 200px;
+}
+
 .movie-when{
   padding: 1.25rem .5rem .75rem .5rem;
     display: flex;
