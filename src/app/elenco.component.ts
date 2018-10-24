@@ -1,4 +1,4 @@
-import { Component, Input, OnInit } from '@angular/core';
+import { Component, ViewEncapsulation, Input, OnInit } from '@angular/core';
 import { map } from 'rxjs/operators';
 import { switchMap } from 'rxjs/operators';
 import { CinetecaService} from './cineteca.service';
@@ -7,7 +7,8 @@ import { NgxSpinnerService } from 'ngx-spinner';
 @Component({
   selector: 'elenco',
   templateUrl: './elenco.component.html',
-  styleUrls: [ './elenco.component.css' ]
+  styleUrls: [ './elenco.component.css' ],
+  //encapsulation: ViewEncapsulation.None
 })
 export class ElencoComponent implements OnInit  {
   

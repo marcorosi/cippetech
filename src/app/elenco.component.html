@@ -1,8 +1,34 @@
-<div *ngFor="let film of films">
-	<h4>{{film.Title}}</h4>
-	<img src="{{film.thumb}}" />
-  <p [innerHtml]="film.Abstract"></p>
-  <p>{{film.LocationName}}</p>
-  <p>{{film.LocationAddress}}</p>
-  <div *ngFor="let d of film.dataeora">{{d | date:'H:mm'}}</div>
-</div>
+<article *ngFor="let film of films" class="movie">
+  <div class="movie-when">
+
+    <div class="hour-alert" *ngIf="film.remaingTime">Inizia tra {{film.remaingTime}}!</div>
+    <div *ngFor="let d of film.dataeora; let i = index" class="hour">
+      <ng-container *ngIf="i==0">Ore</ng-container> 
+      <ng-container *ngIf="i>0">/</ng-container> {{d | date:'H:mm'}}
+    </div>
+  </div>
+  <div class="movie-info">
+    <div class="movie__img">
+      <img src="{{film.thumb}}" />
+    </div>
+    <div class="movie__txt">
+        <h1>{{film.Title}}</h1>
+        <div [innerHtml]="film.Abstract"></div>
+        <a href="{{film.linkYoutube}}" target="_blank" class="video">
+          <i class="material-icons">video_library</i> Vedi trailer
+        </a>
+    </div>
+  </div>
+  <div class="movie-where">
+    <div>
+        <p><span>Dove:</span> {{film.LocationName}}</p>
+        <!--<p>{{film.LocationAddress}}</p>-->
+
+    </div>
+    <div class="map">
+        <a href="{{film.linkMap}}" target="_blank">
+          <i class="material-icons">place</i> Vedi mappa
+        </a>
+    </div>
+  </div>
+</article>

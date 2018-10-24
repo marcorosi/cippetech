@@ -1,0 +1,141 @@
+.movie{
+  margin: 1rem 0;
+  background-color:#ffdf4a;
+  overflow: hidden;
+  position: relative;
+}
+
+.movie-when{
+  padding: 1.25rem .5rem .75rem .5rem;
+    display: flex;
+    /* justify-content: space-between;
+    align-items: flex-end;*/
+}
+
+.movie .hour{
+  font-family: 'Work Sans', serif;
+  font-size: 1.2rem;
+  font-weight: 700;
+
+  position: relative;
+}
+
+.movie .hour-alert{
+  font-size:.75rem;
+  font-weight: 700;
+  /*color: #fd6b00;*/
+  color:#7100fd;
+
+  position: absolute;
+  top: 7px;
+}
+
+.movie:before{
+  content:'';
+  position: absolute;
+  top: -45px;
+  left: -12px;
+  width:140px;
+  height: 150px;
+  background-color: #fff;
+  transform: rotate(50deg);
+}
+
+
+.movie-info{
+  display: flex;
+  padding:0 .5rem;
+  position: relative;
+  margin-top: .25rem;
+}
+.movie__img{
+  max-width: 150px;
+  flex-shrink: 0;
+}
+.movie__txt{
+  margin: 0 .5rem;
+}
+.movie__txt h1{
+  font-family: 'Work Sans', serif;
+  font-size: 1.1rem;
+  margin:0 0 .3rem 0;
+}
+
+
+.movie-where{
+  padding: .75rem .5rem;
+  margin-top: .5rem;
+  background-color: rgba(255, 255, 255, 0.25);
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.movie-where p{
+  /*font-family: 'Lora', serif;*/
+  margin:.1rem 0;
+  line-height: 1.1;
+  font-size: .8rem;
+}
+
+.map i{
+  margin-right: 2px;
+  font-size: 16px;
+}
+
+.movie-where p span{
+  font-weight: 600;
+  display: inline-block;
+  position: relative;
+ /* background-color: white;
+  padding: 2px 4px;*/
+}
+/*
+.movie-where p span:before{
+   content:'';
+  position: absolute;
+  top:-3px;
+  left: -7px;
+  width:100%;
+  height: 100%;
+  background-color: #fff;
+  transform: skew(20deg);
+  z-index: -1;
+  padding: 2px 5px;
+}
+*/
+
+.map{
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  font-size: .7rem;;
+  font-weight: 400;
+  margin-left: 1.5rem;
+  min-width: 70px;
+
+
+  padding: 4px 12px 4px 8px;
+}
+
+.video{
+  display: inline-flex;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: .75rem;
+  margin-top: .5rem;
+  background-color: #ffd200;
+  border-radius: 20px;
+  border: none;
+  padding: 4px 12px 4px 8px;
+}
+
+.video i{
+  margin-right: .25rem;
+  font-size: 16px;
+}
+
+.video span, .video i{
+  opacity: .85;
+}
