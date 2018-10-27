@@ -51,8 +51,8 @@ export class CinetecaService {
     let from = format(today,'YYYY-MM-DD'); 
     let to = from;
 
-    //let url = `${this.url}?startdate=${from}&enddate=${to}`;
-    let url = `${this.url}/${from}.xml`;
+    let url = `${this.url}?startdate=${from}&enddate=${to}`;
+    //let url = `${this.url}/${from}.xml`;
 
     return this.http.get(url,{ responseType: 'text' })
       .pipe(
