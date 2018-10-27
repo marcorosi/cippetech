@@ -29,9 +29,9 @@ export class CinetecaService {
 
     //this.url='https://cors-anywhere.herokuapp.com/www.cinetecadibologna.it/api/GetSchedule?startdate=2018-10-08&enddate=2018-10-08';
 
-    //this.url='https://cors-anywhere.herokuapp.com/www.cinetecadibologna.it/api/GetSchedule';
+    this.url='https://cors-anywhere.herokuapp.com/www.cinetecadibologna.it/api/GetSchedule';
 
-    this.url = 'https://raw.githubusercontent.com/marcorosi/cippetech/master/schedule';
+    //this.url = 'https://raw.githubusercontent.com/marcorosi/cippetech/master/schedule';
 
     //versione "cache"
           //this.url='https://raw.githubusercontent.com/marcorosi/cippetech/master/schedule_example.xml';
