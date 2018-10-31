@@ -104,7 +104,8 @@ export class CinetecaService {
   }
 
   addLinkYoutube(film:any){
-    let search = film.Title+' '+film.Abstract;
+    //let search = film.Title+' '+film.Abstract;
+    let search = film.Title;
     film.linkYoutube=encodeURI(this.youtube+search+' trailer');
   }
 
